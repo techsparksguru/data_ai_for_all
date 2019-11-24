@@ -1,3 +1,4 @@
+![TechSparks](Techsparks-TS-cloud-logo-new.png)
 # TOPIC
 - Introduction to Data Analysis with Pandas
 - This is basic level tutorial (intermediate and advanced will follow)
