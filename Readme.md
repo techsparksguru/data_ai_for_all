@@ -7,6 +7,9 @@
 - Your laptop that can connect to internet and an html compatible browser 
 - Willingness to learn
 
+# STUDENT LAB
+![Labs](techsparks_jupyterhub.gif)
+
 # COURSE INDEX
 - Background, history of Pandas and relationship with ecosystem
 - Environment set up, landscape and navigating within notebooks
