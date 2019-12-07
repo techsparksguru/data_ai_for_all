@@ -8,7 +8,8 @@
 - Willingness to learn
 
 # STUDENT LAB
-![Labs](techsparks_jupyterhub.gif)
+![Labs](techsparks_jupyterhub.gif)  
+If you plan to use jupyterlab (the future of jupyter), then follow instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). If you installed jupyter on mac using homebrew, even though your jupyter version is > 5.3 (`jupyter notebook --version`), you might have to `jupyter serverextension enable --py jupyterlab --sys-prefix`
 
 # COURSE INDEX
 - Background, history of Pandas and relationship with ecosystem
