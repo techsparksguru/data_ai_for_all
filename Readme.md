@@ -9,7 +9,9 @@
 
 # STUDENT LAB
 ![Labs](techsparks_jupyterhub.gif)  
-If you plan to use jupyterlab (the future of jupyter), then follow instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). If you installed jupyter on mac using homebrew, even though your jupyter version is > 5.3 (`jupyter notebook --version`), you might have to `jupyter serverextension enable --py jupyterlab --sys-prefix`
+If you plan to use jupyterlab (the future of jupyter), then follow instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). If you installed jupyter on mac using homebrew, even though your jupyter version is > 5.3 (`jupyter notebook --version`), you might have to `jupyter serverextension enable --py jupyterlab --sys-prefix`  
+
+For matplotlib to display plots properly in jupyterlab, install [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) and in the notebook use `%matplotlib widget` - This is specifically when you want to create grid of multiple plots and draw many at once (using matplotlib object oriented api) and control their size and drawing area
 
 # COURSE INDEX
 - Background, history of Pandas and relationship with ecosystem
