@@ -1,11 +1,12 @@
 ![TechSparks](Techsparks-TS-cloud-logo-new.png)
 # TOPIC
 - Introduction to Data Analysis with Pandas
-- This is basic level tutorial (intermediate and advanced will follow)
+- This is basic level tutorial, with visualization included
 
 # WHAT TO GET
-- Your laptop that can connect to internet and an html compatible browser 
-- Willingness to learn
+- Your machine/laptop/desktop/tablet/phablet/notebook that can connect to internet and an html compatible browser 
+- Registered and got user id to connect to our lab environment
+- Enthusiasm and willingness to jump in 
 
 # STUDENT LAB
 ![Labs](techsparks_jupyterhub.gif)  
@@ -20,12 +21,14 @@ For matplotlib to display plots properly in jupyterlab, install [jupyter-matplot
 - Basic Exploration
 - Select, filter, sort
 - Clean, transform 
+- Aggregates
+- Visualization with matlplotlib, seaborn, bokeh etc. 
 - Real time use cases
 
 # TAKE AWAYS
 - Feeling that your time was well spent & insightful
-- Homework that you committed for when signing up
-- Some material that can help you explore deeper, and cheat sheets 
+- Presentations, class room code and take home exercises
+- Cheat Sheets, recorded videos of the class and network with other similar mindsets
 
 # PRESENTATION DECK
 [Minimal Deck](https://slides.com/machzqcq/deck-2)
