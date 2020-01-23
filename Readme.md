@@ -22,7 +22,10 @@ For matplotlib to display plots properly in jupyterlab, install [jupyter-matplot
 - Select, filter, sort
 - Clean, transform 
 - Aggregates
-- Visualization with matlplotlib, seaborn, bokeh etc. 
+- Visualization with matlplotlib, seaborn, bokeh etc.
+- Apache Spark Fundamentals and data analysis
+- Spark Dataframe to Pandas Dataframe & vice versa
+- Pandas API over Apache Spark (~ish) with Koalas 
 - Real time use cases
 
 # TAKE AWAYS
