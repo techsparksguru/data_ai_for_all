@@ -7,13 +7,14 @@ A REPL (say it, “REP-UL”) is an interactive way to talk to your computer in 
 - Loop back to step 1 (to continue the conversation).
 The term “REPL” is an acronym for Read, Evaluate, Print and Loop because that’s precisely what the computer does..!. Generally launched by typing `python` or `python3` from shell/command line
 
-# IPython vs. Jupyter vs. Jupyterlab
+# IPython vs. Jupyter vs. Jupyterlab vs. Jupyterhub
 
 - IPython (Interactive Python) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history. IPython itself is ultimately a python codebase and library to be installed
 - Basically all 3 are presentation layers
 - Jupyter is the evolution from IPython. It is a REPL interface over web, with additional intellisense.
 - JupyterLab is Jupyter’s Next-Generation Notebook Interface
 - By default IPython kernel is available when Jupyter is installed, however if other kernels (julia, R etc.) are required, we have to explictly install the kernel for e.g. IJulia for Julia (assuming Julia runtime is available and [IJulia](https://github.com/JuliaLang/IJulia.jl) finds it when installed). To avoid manually configuring kernels, various language runtimes and its packages etc. is why Anaconda exists
+- JupyterHub brings the power of notebooks to groups of users. It gives users access to computational environments and resources without burdening the users with installation and maintenance tasks. Users - including students, researchers, and data scientists - can get their work done in their own workspaces on shared resources which can be managed efficiently by system administrators.
 
 # Anaconda vs. Miniconda vs. Conda
 
