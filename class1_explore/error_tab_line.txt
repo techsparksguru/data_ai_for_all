@@ -1,0 +1,81 @@
+ID	Desc	Shelf Description	Additional	Size	Measure	Category	Taxonomy	Status
+"123"	SINGLE BOTTLE			12	UNKNOWN			M
+
+"345"	Oktoberfest Vienna Lager			72	FO	1 Adult Beverage	08 Beer, Wine & Liquor 145 Craft Beer 00906 Lager	M
+
+"334"	ASST LMNT FLRL			1	EA			M
+
+"567657"	Mattel DL MUSIC			1	EA			M
+
+"767"	GFTW DSGN			5	UNKNOWN			M
+
+"8787"	Mattel ASH DL G			1	EA			M
+
+"235"	Unvalidated				UNKNOWN			M
+
+"542"	NG SUNS DOT			12M	EA			M
+
+"678"	FLND IMPORTD MUENSTER			1	LB			M
+
+"222"	Mattel DL LOVE			1	EA			M
+
+"5554"	NG SUNDOT			18M	EA			M
+
+"333"	Mattel BABY			1	EA			M
+
+"444"	Un-Validated				UNKNOWN			M
+
+"56787"	FASH DL ANGEL			1	EA			M
+
+"1233"	Unvalidated				UNKNOWN			M
+
+"654"	NG			3M	EA			M
+
+"22334"	POLKA DOT			6M	EA			M
+
+"45343"	NOAH EGG				UNKNOWN			M
+
+"7675"	LIP AGUA FRESCAS DISPLAY				UNKNOWN			M
+
+"263"	Deli Edamame			1	RW	16 Deli	13 Deli 009 Cold Side Dishes 00007  Salad	M
+
+"654"	P7 LV 720 SUPER SKNY			27	EA			M
+
+"8654"				EACH	UNKNOWN	CATALOGUE DVD'S		M
+
+"3433"				EACH	UNKNOWN	CATALOGUE DVD'S		M
+
+"23357"	P7 LV 720 SUPER SKNY			28	EA			M
+
+"842"	MEGA VEHICLE ASST			1	EA			M
+
+"124"	Unvalidated				UNKNOWN			M
+
+"67453"	DIS-012-FM	Incipio Display - iPhone 7				UNKNOWN			M
+"78564345"	 CUSTOM CUPCAKE 6CT			1	LB			M
+
+"1224"	Unvalidated				UNKNOWN			M
+
+"955"	MERMAID SHORT			4	EA			M
+
+"235"	-ANTHOLOGY DVD	BEATLES-ANTHOLOGY	DVD	1	EA			M
+
+"787654"	CARS DC OVRSZD AST			AST	EA			M
+
+"5323"	PHALPHSS NLTY			4OZ/118ML	UNKNOWN			M
+
+"9534"	CARS DC OVRSZD (D)			AST	EA			M
+
+"q25"	VRSZD AST			AST	EA			M
+
+"uerwer"	Sony 			1	EA	17 Electronics	15  047 Electronics 00336 Audio & MP3 Players	M
+
+"3453"	P2 BOOTCUT			EA	EA			M
+
+"78675"	P7  SUPER SKNY			29	EA			M
+
+"9876564"	SHORT			5	EA			M
+
+"2335"	P7 LV  SKNY			30	EA			M
+
+"655445"	 SHORT			6-6X	EA			M

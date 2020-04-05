@@ -1,0 +1,587 @@
+Business Name	Email	Category	Category 2	Category 3	Address	City	State	Postal	Phone	Website
+Stone Cove Marina Inc	NOT IN SAMPLE	Docks	Marinas	Dock Builders	134 Salt Pond Rd 	Wakefield	RI	2879	(401) 783-8990	http://stonecovemarinari.com
+Bluehaven Homes	NOT IN SAMPLE	General Contractors	Home Builders		5701 Time Sq 	Amarillo	TX	79119	(806) 452-2545	http://www.bluehavenhomes.com/
+Michael Jays Tattoo  Body Piercing Clinic	NOT IN SAMPLE	Jewelers	Body Piercing	Tattoos	1929 N Washington St 	Bismarck	ND	58501	(701) 222-8282	http://michaeljaystattoo.com
+Cardona-Hine Gallery	NOT IN SAMPLE	"Art Galleries, Dealers  Consultants"			82 County Road 75 	Truchas	NM	87578	(505) 689-2253	http://cardonahinegallery.com
+Cancun	NOT IN SAMPLE	Mexican Restaurants			2134 Allston Way 	Berkeley	CA	94704	(510) 549-0964	http://www.sabormexicano.com/cancun
+@cafe	NOT IN SAMPLE	Coffee Shops			716 Rainier Ave S 	Seattle	WA	98144	(206) 328-5283	
+Stone County Economic Dev	NOT IN SAMPLE	Economic Development...			115 Hatten Ave E 	Wiggins	MS	39577	(601) 928-5418	http://stonecounty.com
+Anthony's Custom Clothing	NOT IN SAMPLE	Tailors	Clothing Alterations		1025 Quarrier St 	Charleston	WV	25301	(304) 720-4858	http://bestmastertailor.com
+Sever-Clark County Library	NOT IN SAMPLE	Libraries			207 W Chestnut St 	Kahoka	MO	63445	(660) 727-3262	http://mogenclark.com
+Bunkers Music Bar  Grill	NOT IN SAMPLE	Restaurants	Bar  Grills	Bars	761 Washington Ave N 	Minneapolis	MN	55401	(612) 338-8188	http://www.bunkersmusic.com
+Pancho O Malleys	NOT IN SAMPLE	Mexican Restaurants			140 Point Judith Rd 	Narragansett	RI	2882	(401) 782-2299	http://www.panchosri.com
+Vapor Queen	NOT IN SAMPLE	"Cigar, Cigarette  Tobacco Dealers"			171 Main St 	Alexander City	AL	35010	(256) 392-4422	http://vaporqueenngifts.com
+Mac Nabb Photography	NOT IN SAMPLE	Wedding Photography  Videography			102 Apple Hill Rd 	Hatboro	PA	19040	(215) 674-8655	http://macnabbphoto.com
+Rick's New York Style Pizza	NOT IN SAMPLE	Restaurants	Pizza	Take Out Restaurants	1320 Lakewood Mall 	Lodi	CA	95242	(209) 400-2398	http://www.rickspizzalodi.com
+Quik Wok Restaurant	NOT IN SAMPLE	Chinese Restaurants	Asian Restaurants		361 W Main St 	Kuna	ID	83634	(208) 922-4088	http://www.quikwokkuna.com
+Askar Management	NOT IN SAMPLE	Restaurants	Pizza		2525 S Telegraph Rd 	Bloomfield Hills	MI	48302	(248) 888-7272	http://askarbrands.com
+Micanopy Middle School	NOT IN SAMPLE	Middle Schools	Public Schools	Schools	708 NW Okehumkee St 	Micanopy	FL	32667	(352) 466-1090	http://micanopymiddle.com
+Commander Restaurant  Bar	NOT IN SAMPLE 	Bars	Taverns	American Restaurants	30279 Airport Rd 	Pequot Lakes	MN	56472	(218) 562-4198	http://www.commanderbar.com
+Burke Town School	NOT IN SAMPLE	Public Schools	Schools		3293 Burke Hollow Rd 	West Burke	VT	5871	(802) 467-3385	http://burke.cnsuschools.org
+Great Wall Billiards	NOT IN SAMPLE	Bars	Pool Halls	Restaurants	7064 Spring Garden Dr 	Springfield	VA	22150	(703) 866-7788	http://greatwallbilliards.com
+Neighborhood Restaurant Group	NOT IN SAMPLE	Restaurants			709 D St NW 	Washington	DC	20004	(202) 524-5244	http://thepartisandc.com
+Chef T's Garden Grill	NOT IN SAMPLE	Bar  Grills	Mexican Restaurants		1525 E Gary Rd 	Lakeland	FL	33801	(863) 687-4386	http://cheftsgardengrill.com
+B  B Farms	NOT IN SAMPLE	Farms	Ranches		12813 Brush Creek Rd 	Russellville	MO	65074	(573) 782-4424	http://bandbfarmllc.weebly.com/index.html
+Mary Catherine's	NOT IN SAMPLE	Bras	Mastectomy Forms  Apparel		9580 1st Ave NE 	Seattle	WA	98115	(206) 686-7285	http://marycatherines.com/
+Rip City Glass	NOT IN SAMPLE	"Cigar, Cigarette  Tobacco Dealers"			39080 Pioneer Blvd 	Sandy	OR	97055	(503) 698-4200	http://ripcityglass.com
+Tess Co	NOT IN SAMPLE	Oxygen			6837 Barger Pond Way 	Knoxville	TN	37912	(865) 947-3711	http://tesscompany.com
+Lynchburg Photoworks	NOT IN SAMPLE	Photography Schools			17860 Forest Rd 	Forest	VA	24551	(434) 385-8110	http://lynchburgphotoworks.com
+Austin Street Firehouse	NOT IN SAMPLE	Take Out Restaurants			113 W Austin St 	Jefferson	TX	75657	(903) 665-2266	http://www.austinstreetbistro.com
+Tim Wolfe Mobile Welding	NOT IN SAMPLE	Welders			1860 NE 62nd St 	Ocala	FL	34479	(352) 817-8274	http://timwolfemobilewelding.com
+At Ease Home Care	NOT IN SAMPLE	Nurses	Home Health Services	Hospices	1509 Willamette St 	Eugene	OR	97401	(541) 744-1213	http://ateasehomecare.com
+Skin Rejuvenation Center	NOT IN SAMPLE	Hair Removal	Skin Care	Tanning Salons	1229 Boiling Springs Rd 	Spartanburg	SC	29303	(864) 542-2826	http://westsidedermatology.com
+"Cox, Jamie J"	NOT IN SAMPLE	Tax Attorneys	Attorneys		312 E Capitol Ave 	Jefferson City	MO	65101	(573) 635-7166	http://brydonlaw.com
+Upper State Apartment Assn	NOT IN SAMPLE	Apartments			211 Century Dr Ste 104D 	Greenville	SC	29607	(864) 242-0200	http://upperstate.org
+Scott Products Inc	NOT IN SAMPLE	"Trophies, Plaques  Medals"	Foundries		26 Somme St 	Newark	NJ	7105	(973) 589-5263	http://scottproducts.com
+Central Mississippi Monument Company	NOT IN SAMPLE	Monuments	Funeral Directors		522 Highway 16 E 	Carthage	MS	39051	(601) 267-3500	http://centralmsmonuments.com/
+Sav On Signs	NOT IN SAMPLE	Signs	Truck Painting  Lettering		238 W Madison Ave 	Vinton	VA	24179	(540) 344-8406	http://savonsigns.net
+Insulco Inc	NOT IN SAMPLE	Cabinet Makers	Cabinets		12122 SE US Highway 441 	Belleview	FL	34420	(352) 307-9060	http://insulcoinsulationllc.com
+Tam's Egg Roll	NOT IN SAMPLE	Restaurants	Asian Restaurants		7722 Forest Ln 	Dallas	TX	75230	(214) 373-9691	http://tamweb.com
+Margaret Mclarty	NOT IN SAMPLE	Farms	Grain Dealers		2728 Quail Run Rd 	Jackson	MS	39211	(601) 362-2312	http://murrah1969.com
+Newburgh-beacon Bus Corp	NOT IN SAMPLE	Transit Lines	Bus Lines		RR 32 	New Windsor	NY	12553	(845) 565-7900	http://leprechaunlines.com
+Accelerate Your Dreams Home	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			 	Bridgewater	NJ	8807	(908) 722-2621	http://www.phremodeling.com
+Indy    Innovative Solutions	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			 	Indianapolis	IN	46229	(317) 447-8576	http://indyinnovativesolutions.com
+Healthy Stuff Cakery And Cafe	NOT IN SAMPLE	Coffee Shops	Bakeries	Dessert Restaurants	1731 Grandin Rd SW 	Roanoke	VA	24015	(540) 345-2407	http://www.healthystuffcakery.com
+Workshop Tools	NOT IN SAMPLE	Tools	Building Materials		387 Opry Mills Dr 	Nashville	TN	37214	(615) 514-0037	http://workshoptools.com
+Hughes Design Communications	NOT IN SAMPLE	Graphic Designers	Commercial Artists		22 N Morgan St 	Chicago	IL	60607	(312) 733-1466	http://hughesdesign.com
+Swell Body and Boutique	NOT IN SAMPLE	Boutique Items			87 Warren St 	Charlestown	MA	2129	(617) 242-7600	http://swellbodyandboutique.com
+Arirang Korean Restaurant	NOT IN SAMPLE	Asian Restaurants	Korean Restaurants		741 Civic Center Dr 	Niles	IL	60714	(847) 966-7072	http://arirangkoreanrestaurant.com
+Heather Pooley DVM	NOT IN SAMPLE	Veterinarians			565 Holmes Blvd 	Gretna	LA	70056	(504) 365-0098	http://auroraanimaldoctors.com
+Lola	NOT IN SAMPLE	Restaurants	Cocktail Lounges		500 N 14th St 	Saint Louis	MO	63103	(314) 621-7277	http://welovelola.com
+Tiburon Design Automation	NOT IN SAMPLE	Web Site Design  Services			613 4th St 	Santa Rosa	CA	95404	(707) 539-7368	http://tiburon-da.com
+Kacey Kersting CNM	NOT IN SAMPLE	Midwives	Nurses		440 Ray Norrish Dr 	Cincinnati	OH	45246	(513) 671-7700	http://associnobgyn.com
+Stone Ridge Construction Svc	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			202 E Main St 	Westminster	MD	21157	(410) 871-0028	http://www.srcsi.com
+Isobar	NOT IN SAMPLE	Web Site Design  Services			700 Atlantic Ave 	Boston	MA	2111	(857) 453-2160	http://isobar.com
+Adamcik Custom Solutions	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			300 N Pierce St 	Burnet	TX	78611	(512) 525-6139	http://anthonyadamcik.com
+Flippin' Good!	NOT IN SAMPLE	Family Style Restaurants	Restaurants		930 New County Rd 	Dayton	ME	4005	(207) 499-7715	http://www.flippingoodpizza.com
+Sidetracks	NOT IN SAMPLE	Souvenirs	Gift Shops	Novelties	8 Elm St 	Stockbridge	MA	1262	(413) 298-5100	http://sidetracks.net
+Shogun Japanese Restaurant	NOT IN SAMPLE	Seafood Restaurants	Sushi Bars		5036 N Oracle Rd 	Tucson	AZ	85704	(520) 888-6646	http://www.shoguntucson.com
+Darcy Mcgees Irish Pub	NOT IN SAMPLE	Restaurants	Irish Restaurants	Taverns	257 Franklin St 	Buffalo	NY	14202	(716) 853-3600	http://www.darcymcgeesonline.com
+Andys Red Hots	NOT IN SAMPLE	Take Out Restaurants			6220 Central Ave 	Portage	IN	46368	(219) 763-2333	http://andyeastwood.com
+Ba-Da-Bing! Bail Bonds	NOT IN SAMPLE	Bail Bonds	Insurance		 	Helena	MT	59601	(406) 449-3343	http://406bail.com
+Total Body Custom Care	NOT IN SAMPLE	Auto Repair  Service			4102 S Lancaster Rd 	Dallas	TX	75216	(469) 215-5134	http://kleankutbodydallas.weebly.com
+TnT Photography	NOT IN SAMPLE	Wedding Photography  Videography			1220 Winding Oak Dr 	York	PA	17403	(717) 881-0615	http://tntphotopa.com
+Wireframe	NOT IN SAMPLE	Web Site Design  Services			2001 Wilshire Blvd Suite 410 	Santa Monica	CA	90403	(310) 828-0780	http://wireframe.com
+Guilford Lobster Pound	NOT IN SAMPLE	Seafood Restaurants			505 Old Whitfield St 	Guilford	CT	6437	(203) 453-6122	http://guilfordlobsterpound.com
+Colville St Patisserie	NOT IN SAMPLE	Restaurants	Bakeries		40 S Colville St 	Walla Walla	WA	99362	(509) 301-7289	http://www.colvillestreetpatisserie.com
+Long Island City High School	NOT IN SAMPLE	High Schools	Public Schools	Schools	1430 Broadway 	Astoria	NY	11106	(718) 545-7095	http://longislandcityhs.schoolwires.net/site/default.aspx?PageID=1
+Depaola's Pub	NOT IN SAMPLE	Bars	Taverns	Bar  Grills	1401 Sulphur Spring Rd 	Halethorpe	MD	21227	(410) 247-0283	http://depaolaspub.com
+Celsius Films	NOT IN SAMPLE	Portrait Photographers	Photo Finishing		115 E 30th St 	New York	NY	10016	(212) 253-7400	http://celsiusfilms.com
+Chux Trux Camper Shell  Bed Cover Outlet	NOT IN SAMPLE	Auto Repair  Service	Window Tinting		8901 E US Highway 40 	Kansas City	MO	64129	(816) 921-4672	http://chuxtrux.com
+The Bottom Grill And Pub	NOT IN SAMPLE	Bars	Restaurants		1033 Black Oak Rd 	Bonneau	SC	29431	(843) 825-3999	
+"Mid Hudson Custom Chimney Tops, Inc."	NOT IN SAMPLE	Fireplaces	Masonry Contractors		146 Old Bulls Head Rd 	Clinton Corners	NY	12514	(845) 266-4843	http://mhcctinc.com
+Ashley Garage	NOT IN SAMPLE	Auto Repair  Service			3207 Governors Dr SW 	Huntsville	AL	35805	(256) 534-5489	http://ashleygarage.net
+Michigan Hospice	NOT IN SAMPLE	Hospices	Home Health Services		3820 Packard St # 160 	Ann Arbor	MI	48108	(734) 677-0077	http://mihospice.com
+Poppys Sports Pub  Grille	NOT IN SAMPLE	Bars	Taverns	Restaurants	1340 Mount Vernon Ave 	Marion	OH	43302	(740) 386-4255	http://bluefusionfun.com/poppys
+Arado Japanese Restaurant	NOT IN SAMPLE	Restaurants	Japanese Restaurants		4001 Wilshire Blvd # A 	Los Angeles	CA	90010	(213) 387-1199	http://www.aradosushi.com
+G-Graphic Solutions	NOT IN SAMPLE	Web Site Design  Services			3599 Foxcroft Cir 	Oviedo	FL	32765	(407) 494-6166	http://g-graphic.net
+First United Methodist Church	NOT IN SAMPLE	Clergy	Methodist Churches		606 Northview Dr 	Central City	IA	52214	(319) 438-1329	http://lavergnefirstumc.org
+Riverside Cabinet Shop Inc	NOT IN SAMPLE	Cabinet Makers	Cabinets		4580 Commerce Pkwy 	Sugar Hill	GA	30518	(770) 945-6850	http://cabinc.com
+Grand King Buffet	NOT IN SAMPLE	Chinese Restaurants	Buffet Restaurants		661 E 24th St Ste 230 	Holland	MI	49423	(616) 796-6988	http://www.grandkingbuffet.com
+Brum Art Glass Inc	NOT IN SAMPLE	"Glass-Beveled, Carved, Etched,..."			4099 S Tamiami Trl 	Sarasota	FL	34231	(941) 921-5265	http://brumartglass.com
+Still Meadows	NOT IN SAMPLE	Apartments	Furnished Apartments		36405 Old Ocean City Rd Apt 26 	Willards	MD	21874	(410) 835-2951	http://stillmeadowretreat.org
+Angels On Call	NOT IN SAMPLE	"Birth  Parenting-Centers, Education..."			4180 Hurt Bridge Rd Ste 1 	Cumming	GA	30028	(770) 889-0454	http://angelsoncall.net
+Venice Area Youth Soccer Asc	NOT IN SAMPLE	Soccer Clubs			1251 Pinebrook Way 	Venice	FL	34285	(941) 483-4951	http://venicesoccer.org
+Assouline	NOT IN SAMPLE	Publishers			601 W 26th St Rm 1810 	New York	NY	10001	(212) 989-6769	http://assouline.com
+Campbell Builders	NOT IN SAMPLE	Home Centers			11784 Highway 67 W 	Butler	TN	37640	(423) 768-3611	http://campbellbuilders.com
+Ardovinos Pizza	NOT IN SAMPLE	Restaurants	Pizza	Caterers	206 Cincinnati Ave 	El Paso	TX	79902	(915) 532-9483	http://www.ardovinospizza.com
+Andrade Restaurante Mexicano	NOT IN SAMPLE	Restaurants	Mexican Restaurants	Pizza	4903 W Overland Rd 	Boise	ID	83705	(208) 424-8890	http://shakeys.com
+Btn Building Salvage Specialists	NOT IN SAMPLE	Wood Products			6244 Frankford Ave 	Baltimore	MD	21206	(443) 869-2370	http://btnsalvage.com
+Lawton Printing Inc	NOT IN SAMPLE	Printing Services	Lithographers		4111 E Mission Ave 	Spokane	WA	99202	(509) 534-1044	http://clevelandtxchamber.com
+Falafel Bar	NOT IN SAMPLE	Restaurants	Middle Eastern Restaurants		3689 Sheridan Dr 	Buffalo	NY	14226	(716) 831-3980	http://falafelbar.com
+United Poly  Packaging Supplies	NOT IN SAMPLE	Containers	Packaging Materials		1759 Old Leonard Ave 	Columbus	OH	43219	(614) 545-0028	http://uppsupplies.com
+Broadview Public Library	NOT IN SAMPLE	Libraries			2226 S 16th Ave 	Broadview	IL	60155	(708) 345-1325	http://broadviewlibrary.org
+Lion Tree Marketing Group	NOT IN SAMPLE	Web Site Design  Services			4602 S. Biltmore Ln Suite 119 	Madison	WI	53718	(608) 577-4107	http://www.liontreegroup.com
+Tiger Rock Tae Kwon Do/Martial Arts	NOT IN SAMPLE	Party Planning			5109 S Cliff Ave 	Sioux Falls	SD	57108	(605) 271-4646	http://tigerrockmartialarts.com
+Railcar Modern American Kitchen	NOT IN SAMPLE	American Restaurants	Restaurants		1814 N 144th St 	Omaha	NE	68154	(402) 493-4743	http://www.railcaromaha.com
+Terra Optima Farm	NOT IN SAMPLE	Tree Service			980 Gurneytown Rd 	Appleton	ME	4862	(207) 785-3118	http://mofga.net/MyProfile/tabid/88/asuid/2187/Default.aspx
+Solomon's Furniture	NOT IN SAMPLE	Bedding	Furniture Stores	Mattresses	390 Merrill Rd 	Pittsfield	MA	1201	(413) 445-5455	http://solomonsfurnitureoutlet.com
+Robert E Holladay IV MD	NOT IN SAMPLE	"Physicians  Surgeons, Orthopedics"			820 Jordan St. Suite 500 	Shreveport	LA	71101	(318) 222-6098	http://hsli.com
+Carolinas Office Relocations Expert	NOT IN SAMPLE	Moving Boxes			6300 Clementine Dr 	Clemmons	NC	27012	(336) 778-2424	http://coreloexperts.com
+Olde Nawlins Cookery	NOT IN SAMPLE	Restaurants	Creole  Cajun Restaurants		205 Bourbon St 	New Orleans	LA	70130	(504) 525-4577	http://www.nolacookery.com
+Andrew Miller MD	NOT IN SAMPLE	"Physicians  Surgeons,..."			22 Old Short Hills Rd 	Livingston	NJ	7039	(973) 992-5200	http://associatesinophthalmology.com
+A Touch Of Serendipity	NOT IN SAMPLE	Souvenirs	Gift Shops	Novelties	117 S Richard St # B 	Bedford	PA	15522	(814) 310-2094	http://atouchofserendipity.com
+Precision Meetings  Events Inc	NOT IN SAMPLE	Meeting  Event Planning Services			301 N Fairfax St 	Alexandria	VA	22314	(703) 739-4480	http://teamprecision.com
+Mercel's Bake Shop	NOT IN SAMPLE	Restaurants	Bakeries		8500 49th St N 	Pinellas Park	FL	33781	(727) 546-3560	http://mercelsbakeshop.com
+Twin City Tile And Marble	NOT IN SAMPLE	Counter Tops			900 Montreal Way 	Saint Paul	MN	55102	(612) 315-9986	http://www.tctm.com
+Renaissance Management Inc	NOT IN SAMPLE	"Trade Shows, Expositions  Fairs"			2300 W Park Place Blvd 	Stone Mountain	GA	30087	(770) 413-8940	http://renmgmt.com
+Nebraska Title Co	NOT IN SAMPLE	Abstracters	Title Companies		6003 Old Cheney Rd Ste 300 	Lincoln	NE	68516	(402) 476-8818	http://nebtitleco.com
+Quality Assured Plastics Inc	NOT IN SAMPLE	Plastics  Plastic Products			1200 Crandall Pkwy 	Lawrence	MI	49064	(269) 674-3888	http://qapinc.com
+Koi Asian Bistro	NOT IN SAMPLE	Sushi Bars	Japanese Restaurants	Caterers	906 N Convent St 	Bourbonnais	IL	60914	(815) 523-7266	http://www.koiasianbistroil.com
+Stax O Wax Dj Productions	NOT IN SAMPLE	Disc Jockeys			 	Cary	IL	60013	(847) 639-7829	http://staxowax.com
+Eternal Security Locksmithing	NOT IN SAMPLE	Keys	Locks  Locksmiths		10930 W 87th St 	Overland Park	KS	66212	(913) 599-4567	http://arrowlockservice.com
+Bistro 30	NOT IN SAMPLE	Italian Restaurants	Bar  Grills		202 E Lancaster Ave 	Ardmore	PA	19003	(610) 896-0705	http://www.yeatspubinardmore.com
+Soxland	NOT IN SAMPLE	Hosiery			2100 W North Ave 	Milwaukee	WI	53205	(414) 933-5891	http://soxland.com
+Saller  Sons Painting Co	NOT IN SAMPLE	House Washing	Painting Contractors		1923 Fox Pointe Dr 	Arnold	MO	63010	(636) 296-1051	http://sallerandsons.com
+7 C's Lodging	NOT IN SAMPLE	Hotels	Cabins  Chalets	Lodging	21530 National Pike NE 	Flintstone	MD	21530	(301) 478-3535	http://www.7cslodging.com
+Fuschak's Pit Bar-B-Q	NOT IN SAMPLE	Barbecue Restaurants	Restaurants		1701 Highway 35  San Marcos TX 78666 	San Marcos	TX	78666	(512) 353-2712	http://www.fuschaksbbq.com
+Kiss Computing	NOT IN SAMPLE	Web Site Design  Services			3 Main St Unit 10 	Eastham	MA	2642	(508) 255-9550	http://kisscomputing.com
+Curtain Cowboy	NOT IN SAMPLE	"Draperies, Curtains  Window Treatments"			3417 Bryn Mawr Dr NE 	Albuquerque	NM	87107	(505) 975-9951	http://curtaincowboy.com
+Specto Design Inc	NOT IN SAMPLE	Web Site Design  Services			225 E. Broadway Suite 303 	Glendale	CA	91205	(818) 254-8520	http://www.spectodesign.com
+Tubex Inc	NOT IN SAMPLE	Plastics  Plastic Products			193 Industrial Dr 	Louisa	VA	23093	(540) 967-0733	http://tubex.com
+Hi-Lo	NOT IN SAMPLE	Bars	Taverns		1354 Prince Ave 	Athens	GA	30606	(706) 850-8561	http://www.hiloathens.com
+Pritchett Restoration	NOT IN SAMPLE	Photo Retouching  Restoration			239 4th Ave 1009 Investment Bldg. 	Pittsburgh	PA	15222	(412) 232-3844	http://pritchettphotorestoration.com
+Tarkanyi Karl E	NOT IN SAMPLE	Acupuncture			24120 Meadowbrook Rd Ste 200 	Novi	MI	48375	(248) 477-2100	http://chiropracticperformancesolutions.com
+Los Toros	NOT IN SAMPLE	Mexican Restaurants	Restaurants		1322 Highway 145 	Guntown	MS	38849	(662) 348-3911	http://www.lostoros.com
+Westerville Grille	NOT IN SAMPLE	Bar  Grills			59 S State St 	Westerville	OH	43081	(614) 794-7200	http://uptownmerchants.com
+Shaylee Smith Design	NOT IN SAMPLE	Web Site Design  Services			 	Cleveland	TN	37323	(423) 464-6614	http://www.shayleesmith.com
+"My-Lin Manufacturing Co., Inc."	NOT IN SAMPLE	Laser Cutting			820 N Russell Ave 	Aurora	IL	60506	(630) 897-4100	http://my-lin.com
+Tortilla Fish	NOT IN SAMPLE	Restaurants	Seafood Restaurants		1320 W Elliot Rd Ste 102 	Tempe	AZ	85284	(480) 820-2323	http://www.tortillafish.com
+West Coast Wine Cheese	NOT IN SAMPLE	Bar  Grills	Restaurants		2165 Union St 	San Francisco	CA	94123	(415) 376-9720	http://www.westcoastsf.com
+Pocatello Sweet Adelines	NOT IN SAMPLE	Concert Halls			13767 N White Cloud Dr 	Pocatello	ID	83202	(208) 237-5547	http://pschorus.com
+Brick Street Percussion	NOT IN SAMPLE	Music Schools			1408 Hyvue St 	Adel	IA	50003	(515) 371-7977	http://bspercussion.weebly.com
+Balous Jewelers	NOT IN SAMPLE	Jewelers			2801 Lee Ave 	Sanford	NC	27332	(919) 775-7311	http://balousjewelers.com
+Spaded  Jaded Tattoo Company	NOT IN SAMPLE	Tattoos	Body Piercing		4666 S Mingo Rd 	Tulsa	OK	74146	(918) 622-5500	http://spadedandjaded.com
+Hayden Flour Mill	NOT IN SAMPLE	Restaurants			4404 N Central Ave 	Phoenix	AZ	85012	(480) 557-0031	http://haydenflourmills.com
+Lasting Impressions	NOT IN SAMPLE	Portrait Photographers			1612 Lakeview Ct NW 	Winter Haven	FL	33881	(863) 299-0187	http://mindymier.com
+The Verandah	NOT IN SAMPLE	Restaurants	Take Out Restaurants	Caterers	842 W 36th St 	Baltimore	MD	21211	(410) 889-0999	http://www.theverandahbaltimore.net
+Pancho's Villa Mexican Restaurant	NOT IN SAMPLE	Seafood Restaurants	Mexican Restaurants		32804 Pennsylvania Ave 	San Antonio	FL	33576	(877) 497-3423	http://www.panchosvillarestaurant.com
+Municipal Utilities Authority	NOT IN SAMPLE	Economic Development...			124 S Main St 	Forked River	NJ	8731	(609) 693-8188	http://laceymua.com
+Alaska Family Svc Inc	NOT IN SAMPLE	"Marriage, Family, Child ..."			1825 S Chugach St 	Palmer	AK	99645	(907) 746-4080	http://akafs.org
+Sella's Calzone  Pizza	NOT IN SAMPLE	Italian Restaurants	Pizza		1115 E Main St 	Pullman	WA	99163	(509) 334-1895	http://www.sellascalzone.com
+Luther Burbank Savings	NOT IN SAMPLE	Savings  Loans	Banks		4546 El Camino Real Ste A10 	Los Altos	CA	94022	(650) 688-7410	http://lutherbsavings.com
+"Liquor License Professionals, LLC"	NOT IN SAMPLE	Bar  Grills	Cocktail Lounges		725 N. Mongolia Ave 	Orlando	FL	32803	(321) 274-7104	http://www.liquorlicenseprofessional.com
+Acopio	NOT IN SAMPLE	Boutique Items	Women's Clothing		19 Main St 	Goffstown	NH	3045	(603) 384-1639	http://acopiogoods.com
+La Festa Ristorante Italiano  Piano Bar	NOT IN SAMPLE	Bar  Grills	Italian Restaurants		9911 N Kings Hwy 	Myrtle Beach	SC	29572	(843) 945-9288	http://www.lafestarestaurant.com
+Southern Lawncare  Landscaping	NOT IN SAMPLE	Gardeners	Lawn Maintenance		 				(409) 385-0854	http://southernnurseries.com
+Lemoni Cafe Inc	NOT IN SAMPLE	Delicatessens	Health Food Restaurants		4600 NE 2nd Ave 	Miami	FL	33137	(305) 571-5080	http://www.mylemonicafe.com
+Castable Ceramics	NOT IN SAMPLE	Dental Labs			4107 Minnesota Dr 	Anchorage	AK	99503	(907) 258-0165	http://castableceramics.com
+Shiro's	NOT IN SAMPLE	Restaurants	Sushi Bars		2401 2nd Ave 	Seattle	WA	98121	(206) 443-9844	http://www.shiros.com
+Quo Vadis Books	NOT IN SAMPLE	Book Stores	Religious Goods		1020 S Mill Ave 	Tempe	AZ	85281	(480) 968-3663	http://www.quovadisbooks.org
+Rangeley Homestyle	NOT IN SAMPLE	Craft Supplies	Arts  Crafts Supplies		 	Rangeley	ME	4970	(207) 864-2184	http://rangeleybalsam.com
+Caribbean Cowboy LLC	NOT IN SAMPLE	Barbecue Restaurants	Food Products		 	Odessa	MO	64076	(816) 230-3372	http://www.caribbeancowboybbq.com
+Cliff's Home Improvement Center	NOT IN SAMPLE	Cabinet Makers	Bathroom Remodeling		990 Adams Ave 	Huntington	WV	25704	(304) 529-6058	http://www.guttersroofingsidingwv.com
+North American Flags  Flagpoles	NOT IN SAMPLE	"Flags, Flagpoles  Accessories"			 				(864) 542-9360	http://northamericanflags.com
+Mad Lively	NOT IN SAMPLE	Web Site Design  Services			P.O. Box 32638 	Los Angeles	CA	90032	(323) 393-0623	http://www.madlively.com
+Cake Shop Treats  Sweets	NOT IN SAMPLE	Restaurants	Bakeries		2231 N Fairfield Rd 	Beavercreek	OH	45431	(937) 426-2100	http://www.thecakeshopsweets.com
+Front Row Bar  Grill	NOT IN SAMPLE	Bars	Taverns	Bar  Grills	22277 NW Imbrie Dr 	Hillsboro	OR	97124	(503) 430-8342	http://www.frontrowbarandgrill.net
+Wing Doozy	NOT IN SAMPLE	Restaurants	Chicken Restaurants		3916 Plainfield Ave NE 	Grand Rapids	MI	49525	(616) 608-3067	http://www.wingdoozy.com
+Chris P. Design LLC	NOT IN SAMPLE	Web Site Design  Services			32 Autumn Ashe Road 	Madison	AL	35756	(256) 303-4755	http://chrispdesigns.com
+RedGate Golf Course	NOT IN SAMPLE	Bar  Grills	Golf Courses		14500 Avery Rd 	Rockville	MD	20853	(240) 406-1650	
+Hazel Park Medical Center	NOT IN SAMPLE	Clinics			23411 John R Rd 	Hazel Park	MI	48030	(248) 399-8331	http://nakkasheye.com
+Ace Printery Of Willimantic Inc	NOT IN SAMPLE	Printing Services			361 Boston Post Rd Ste 3 	North Windham	CT	6256	(860) 423-0014	http://waterworkscanoe.com
+Mezger Muly  Yateman	NOT IN SAMPLE	"Wills, Trusts  Estate Planning..."			7477 Baltimore Annapolis Blvd 	Glen Burnie	MD	21061	(410) 766-9173	http://wlekn.com
+Vernal Sports Center	NOT IN SAMPLE	Lawn Mowers			2029 W Highway 40 	Vernal	UT	84078	(435) 789-5196	http://beersharley.com
+Jeff Gutterud Publishing	NOT IN SAMPLE	Web Site Design  Services			 	Kent	WA	98042	(253) 639-1130	http://jgpublish.com
+Applied Hypnosis	NOT IN SAMPLE	Hypnotherapy	Hypnotists		21 French Dr 	Boylston	MA	1505	(508) 869-2979	http://appliedhypnosis.org
+Stonehenge Construction Co	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			STONEHENGE Construction Co 	Downingtown	PA	19335	(610) 458-8499	http://www.stonehengeconstruction.com
+Cabinet En-Counter	NOT IN SAMPLE	Cabinet Makers			105 Hanover St 	Lebanon	NH	3766	(603) 448-9700	http://www.thecabinetencounter.com
+Builder's Supply	NOT IN SAMPLE	Home Centers	Building Materials		250 Rileys Path 	Cookeville	TN	38506	(931) 537-3577	http://builderssupplydoitbest.com
+Water Avenue Coffee	NOT IN SAMPLE	Restaurants			1028 SE Water Ave 	Portland	OR	97214	(503) 232-3067	http://www.wateravenuecoffee.com
+Debe	NOT IN SAMPLE	Caterers			845 Ehlers Rd 	Neenah	WI	54956	(920) 720-5400	http://debecheesecake.com
+Commsec	NOT IN SAMPLE	Consumer Electronics			152 Bo Cole Rd NW 	Huntsville	AL	35806	(256) 859-4000	http://commsecinc.com
+D D Frederick Inc	NOT IN SAMPLE	Valves	Valves-Wholesale  Manufacturers		2235 E 6th St 	Tulsa	OK	74104	(918) 584-1429	http://ddftulsa.com
+Bella Landscapes	NOT IN SAMPLE	Home Centers			730 Apollo Dr 	Circle Pines	MN	55014	(651) 472-3889	http://bellascapes.biz
+Woolman Performance	NOT IN SAMPLE	"Automobile Performance, Racing  Sports..."			1010 S Newer Rd 	Spokane Valley	WA	99037	(425) 359-5538	http://woolmanperformance.com
+Cheerz Deli	NOT IN SAMPLE	Restaurants	Delicatessens		2945 S Miami Blvd # 106 	Durham	NC	27703	(919) 572-6789	http://cheerzdeli.com
+Textbooksrus.Com	NOT IN SAMPLE	Book Stores			802 Avondale Ave 	Columbus	OH	43212	(614) 486-3348	http://textbookrush.com
+Second Chancethrift Shop	NOT IN SAMPLE	Resale Shops	Thrift Shops		111 Broadway Dr 	Hattiesburg	MS	39401	(601) 599-2222	http://southernpinesanimalshelter.org
+Grenada Tourism Commission	NOT IN SAMPLE	Convention Information			95 SW Frontage Rd 	Grenada	MS	38901	(662) 226-2571	http://visitgrenadams.com
+Fifty Five Yardline	NOT IN SAMPLE	Restaurants			1020 W San Marcos Blvd # 114 	San Marcos	CA	92078	(760) 744-1960	http://the55yardline.com
+Stuart Rodgers Photography	NOT IN SAMPLE	Portrait Photographers			375 W Erie St 	Chicago	IL	60654	(312) 787-0724	http://srphoto.com
+Mt Fuji Japanese Steak House	NOT IN SAMPLE	Steak Houses	Japanese Restaurants		1379 N Sandhills Blvd 	Aberdeen	NC	28315	(910) 944-9340	http://mtfujibistro.com
+Massive Graphics	NOT IN SAMPLE	Graphic Designers	Signs		163 North St 	Pittsfield	MA	1201	(413) 445-5335	http://massivegraphicsma.com
+Chef Daves Cafe	NOT IN SAMPLE	Restaurants	Coffee Shops	Caterers	10574 Acacia St 	Rancho Cucamonga	CA	91730	(909) 941-0303	http://www.chefdavescafe.com
+Desert Wind Comics	NOT IN SAMPLE	Comic Books			3658 N Rancho Dr 	Las Vegas	NV	89130	(702) 658-0658	http://desertwindcomics.com
+Mmh-Cornbread Chicken Waffles	NOT IN SAMPLE	Restaurants	American Restaurants		5741 Crowder Blvd # A3 	New Orleans	LA	70127	(504) 244-0021	http://mamommashouse.com
+Shower Door Prices	NOT IN SAMPLE	Table Tops	Shower Doors  Enclosures		1733 West 3rd Street 	Brooklyn	NY	11223	(646) 854-7579	http://showerdoorprices.com
+Abp Corp	NOT IN SAMPLE	Restaurants	Continental Restaurants		19 Fid Kennedy Ave 	Boston	MA	2210	(617) 423-2100	http://aubonpain.com
+Virtual Assistance 4U	NOT IN SAMPLE	Web Site Design  Services			 	Pittsford	NY	14534	(585) 273-0355	http://www.virtassist4u.com
+DD Precision Machine	NOT IN SAMPLE	Machine Shops	Automobile Machine Shop		1200 SE 34th St Ste 33 	Oklahoma City	OK	73129	(405) 677-0319	http://ddprecisionmachineinc.com
+Lafourche Parish Sheriff's Ofc	NOT IN SAMPLE	Police Departments			200 Canal Blvd 	Thibodaux	LA	70301	(985) 446-2255	http://lpso.net
+Data Forms Inc	NOT IN SAMPLE	Office Equipment  Supplies			713 Houston Cir Ste A 	Fort Smith	AR	72901	(479) 785-3282	http://dataformsinc.com
+Rogers  Rogers Cabinets Inc	NOT IN SAMPLE	Cabinet Makers	Cabinets		12755 60th St N 	Clearwater	FL	33760	(727) 532-8282	http://rmmillwork.com
+Competition Motors Corp	NOT IN SAMPLE	Go Karts			9399 SW Tigard St 	Portland	OR	97223	(503) 624-0621	http://cmckarts.com
+The Thirteen Towns of Fosston Inc	NOT IN SAMPLE	Newspapers	News Stands		118 Johnson Ave N 	Fosston	MN	56542	(218) 435-1313	http://13towns.com
+A and G Auto Repair Service	NOT IN SAMPLE	Auto Repair  Service			220 Leo Ave Bldg#B 	San Jose	CA	95112	(408) 993-8556	http://aandgautorepair.weebly.com
+Spirit of Buffalo	NOT IN SAMPLE	Boat Tours	Boat Rental  Charter		1 Naval Park Cv 	Buffalo	NY	14202	(716) 796-7210	http://spiritofbuffalo.com
+Towne House Restaurant	NOT IN SAMPLE	Chinese Restaurants	Asian Restaurants		203 E Main St 	Silverton	OR	97381	(503) 873-2841	http://townehouserestaurant.com
+Murdaugh Joe Masonry Inc	NOT IN SAMPLE	Concrete Contractors	Masonry Contractors		711 Club Rd 	Sherwood	AR	72120	(501) 833-0891	http://murdaughmasonry.com
+Metapros Website Solutions	NOT IN SAMPLE	Web Site Design  Services			8918 W 21st St N Ste 200 	Wichita	KS	67205	(316) 729-4684	http://advantagecart.com
+Skoogies	NOT IN SAMPLE	Delicatessens	Caterers	Restaurants	840 Coleman Blvd Ste C 	Mount Pleasant	SC	29464	(843) 884-0172	http://www.originalskoogies.com
+Terman Middle School	NOT IN SAMPLE	Middle Schools	Public Schools	Schools	655 Arastradero Rd 	Palo Alto	CA	94306	(650) 856-9810	http://terman.pausd.org
+Random Arts	NOT IN SAMPLE	Art Supplies	Art Instruction  Schools		481 Louisiana Ave 	Saluda	NC	28773	(828) 749-1165	http://randomartsnow.com
+Hull's Auto Body	NOT IN SAMPLE	Automobile Body Repairing  Painting			303 Boston Tpke 	Bolton	CT	6043	(860) 646-8483	http://hullsautobody.com
+"Johanna Courtleigh, MA, Licensed Professional Counselor"	NOT IN SAMPLE	Hypnotherapy	Counseling Services		 	Lake Oswego	OR	97035	(503) 684-8481	http://jcourtleigh.com
+Advanced Chiropractic Clinic	NOT IN SAMPLE	Acupuncture	Medical Clinics		425 N Monroe St Ste 1 	Monroe	MI	48162	(734) 243-5460	http://advancedchiropracticclinic.com
+Great Khan Mongolian Grill	NOT IN SAMPLE	Chinese Restaurants			1740 W Prien Lake Rd 	Lake Charles	LA	70601	(337) 477-1377	http://www.greatkhangrill.com
+W Kohler Lamp  Shade Co	NOT IN SAMPLE	Lamps  Shades			137 Rock Cliff Rd 	La Luz	NM	88337	(575) 437-8441	http://wkohlerlampco.com
+Cape Cod Systems	NOT IN SAMPLE	Mats  Matting			No 	Naples	FL	34108	(239) 596-3933	http://capecodsystemscompany.com
+Sasa Sushi	NOT IN SAMPLE	Restaurants	Sushi Bars		7450 W Cheyenne Ave Ste 118 	Las Vegas	NV	89129	(702) 396-9760	http://www.sasasushilasvegas.com
+Red Label Bar  Lounge	NOT IN SAMPLE	Bars	Night Clubs	Restaurants	332 W Sahara Ave 	Las Vegas	NV	89102	(702) 382-6288	http://www.redlabelbar.com/index.htm
+Century Hospice Inc	NOT IN SAMPLE	Hospices	Home Health Services		4909 Lakewood Blvd Ste 303 	Lakewood	CA	90712	(562) 408-1271	http://thecenturyhospice.com
+Perdel Auto Repairs	NOT IN SAMPLE	Auto Repair  Service			5519 NW Loop 410 	San Antonio	TX	78238	(210) 680-3333	http://sparkscarcare1.com
+Buds Car Stereo  Home Theatre	NOT IN SAMPLE	Home Theater Systems			32 N Jackson St 	Danville	IL	61832	(217) 446-0925	http://budscarstereo.com
+Gold Book	NOT IN SAMPLE	Book Stores	Magazines		1720 5th Ave 	Moline	IL	61265	(309) 757-4948	http://radishmagazine.com
+Journey Cafe	NOT IN SAMPLE	Coffee Shops	Restaurants		57 E Kings Hwy 	Audubon	NJ	8106	(856) 546-0004	http://www.journeycafe.net
+One Design Center Inc	NOT IN SAMPLE	Designers-Industrial  Commercial			2828 Lawndale Dr 	Greensboro	NC	27408	(336) 288-0134	http://www.onedesigncenter.com
+Cox  Cox Construction Inc	NOT IN SAMPLE	Sand  Gravel			6591 Eastside Rd 	Redding	CA	96001	(530) 243-6016	http://coxandcoxconstruction.com
+Anselmos Bistro  Bar	NOT IN SAMPLE	Family Style Restaurants	Bar  Grills		1511 Bardstown Rd 	Louisville	KY	40205	(502) 749-0444	http://www.anselmosbistroandbar.com
+Stampede Espresso Bar	NOT IN SAMPLE	Coffee  Espresso Restaurants			4322 Little Freeze Out Rd 	Emmett	ID	83617	(208) 365-3000	http://www.thewindshieldguy.com
+Bella Stone Inc	NOT IN SAMPLE	Fireplaces			11904 Old San Antonio Rd 	Manchaca	TX	78652	(512) 282-9337	http://bellastone.com
+Amalfi Ristorante Italiano	NOT IN SAMPLE	Family Style Restaurants			1351 W 86th St 	Indianapolis	IN	46260	(317) 253-4034	http://www.amalfiristoranteitaliano.com
+Pete's Place Bar  Grill	NOT IN SAMPLE	Restaurants	Bar  Grills	Night Clubs	7819 Highway 412 	Colcord	OK	74338	(918) 422-5301	http://petes.org
+Heritage Court Apartments	NOT IN SAMPLE	Apartments	Real Estate Rental Service		609 Warhawk Way 	Monroe	LA	71203	(318) 345-8110	http://creelproperties.net
+Two Italians Deli  Pizzeria	NOT IN SAMPLE	Delicatessens	Take Out Restaurants	Pizza	9471 Ackman Rd 	Lake In The Hills	IL	60156	(847) 515-8900	http://twoitalians.urbanoutsitters.com
+Rowe Designs Custom Framing	NOT IN SAMPLE	Picture Frames	Picture Framing		287 E Main St 	Newport	VT	5855	(802) 334-1700	http://rowedesigns.com
+Holmes Plate	NOT IN SAMPLE	Take Out Restaurants	Restaurants		54 W Market St 	Corning	NY	14830	(607) 377-5500	http://www.holmesplate.com
+Designer Premier	NOT IN SAMPLE	Home Design  Planning			15478 Flowergate Way 	Parker	CO	80134	(303) 916-9515	http://designerpremier.com
+Lane Blueprint	NOT IN SAMPLE	Blueprinting			9537 W 87th St 	Overland Park	KS	66212	(913) 529-2500	http://laneblueprint.com
+Rock  Roll Academy	NOT IN SAMPLE	Music Schools			640 Mountain Village Blvd 	Telluride	CO	81435	(970) 728-1186	http://rockandrollacademy.com
+TBonz Gill  Grill	NOT IN SAMPLE	Steak Houses	Barbecue Restaurants		4732 Highway 17 S 	North Myrtle Beach	SC	29582	(843) 272-7111	http://tbonzgillandgrill.com/locations/barefoot-landing-myrtle-beach-sc
+Valentino's Coal Fired Grill	NOT IN SAMPLE	Restaurants	Bar  Grills		195 Liberty Sq 	Norwalk	CT	6855	(203) 956-7300	http://www.valentinoscucina.com
+Copy Center and Supplies	NOT IN SAMPLE	Blueprinting			117 S Beaton St 	Corsicana	TX	75110	(903) 872-6657	http://copycenterandsupplies.com
+Clark Sisson Golf Shop	NOT IN SAMPLE	Golf Courses	Golf Equipment  Supplies		17200 Cashell Rd 	Rockville	MD	20853	(301) 774-7706	http://norbeckcc.com
+Royal Pet Care	NOT IN SAMPLE	Pet Stores			3460 N Plantation River Dr 	Boise	ID	83703	(208) 477-1364	http://royalpetcare.com
+Picnic	NOT IN SAMPLE	Coffee  Espresso Restaurants	Cafeterias		2665 Broadway 	New York	NY	10025	(212) 222-8222	http://www.picnicmarket.com
+REDDS FULL MECHANICAL SERVICES LLC	NOT IN SAMPLE	Kitchen & Bath Remodelers				WASHINGTON	DC	20019	(301) 538-6259	http://WWW.REDDSMOLD.COM
+Cat I Mfg	NOT IN SAMPLE	"Glass-Auto, Plate, Window, Etc"			865 Commerce Dr 	South Elgin	IL	60177	(847) 931-8986	http://catiglass.com
+Above  Beyond Moving  Storage	NOT IN SAMPLE	Movers	Storage Household  Commercial		9 Vose Farm Rd 	Peterborough	NH	3458	(603) 924-3211	http://aboveandbeyondmoving.org
+Custom Cabinets by CabineTree	NOT IN SAMPLE	Cabinet Makers			930 E 3rd Ave 	Post Falls	ID	83854	(208) 704-2486	http://www.customcabinetsbycabinetree.com
+Hilltop Indian Cuisine	NOT IN SAMPLE	Restaurants	Indian Restaurants		8350 N Macarthur Blvd Ste 190 	Irving	TX	75063	(469) 420-9181	http://www.hilltopdallas.com
+Trish Hamilton Photography	NOT IN SAMPLE	Portrait Photographers			5627 Harrington Falls Ln # D 	Alexandria	VA	22312	(571) 218-2265	http://trishhamilton.com
+Village Tiles	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			 				(203) 569-9535	http://www.villagetiles.com
+Sneakers Sports Grille	NOT IN SAMPLE	Bar  Grills	Take Out Restaurants	Bars	8133 Point Meadows Way 	Jacksonville	FL	32256	(904) 519-0509	http://www.sneakerssportsgrille.com
+Inova Federal Credit Union	NOT IN SAMPLE	Loans	Mortgages	Credit Unions	12980 Adams Rd 	Granger	IN	46530	(574) 968-2050	http://inovafcu.org
+Retro Rhino USA	NOT IN SAMPLE	Restaurants	Fine Dining Restaurants		113 SE 1st St 	Miami	FL	33131	(786) 383-0756	http://retrorhinousa.com
+Aldos Ristorante Italiano	NOT IN SAMPLE	Restaurants	Italian Restaurants		8539 Fredericksburg Rd 	San Antonio	TX	78229	(210) 691-1117	http://www.aldossa.com
+The Regency Room at The Hotel Roanoke  Conference Center	NOT IN SAMPLE	Steak Houses	Restaurants		110 Shenandoah Ave NE 	Roanoke	VA	24016	(540) 985-5900	http://www.hotelroanoke.com
+Chuck's Barber Shop	NOT IN SAMPLE	Barbers	Hair Stylists		4026 Tennyson St 	Denver	CO	80212	(303) 455-0594	http://chucksbarbershop.com
+Marketplace On Eighth	NOT IN SAMPLE	Restaurants	Casinos		43 E 8th St 	Grafton	ND	58237	(701) 352-3072	http://marketplaceindia.com
+Italia Pizza	NOT IN SAMPLE	Restaurants	Pizza	Take Out Restaurants	1438 Broadway 	El Cajon	CA	92021	(619) 447-8846	http://www.italiapizzarestaurant.com
+D L Woodcraft	NOT IN SAMPLE	Woodworking	Cabinets	Cabinet Makers	400 E Loren St 	Frontenac	KS	66763	(620) 231-0880	http://austermanconstruction.com
+Rochester Stem Academy	NOT IN SAMPLE	Ice	Ice-Wholesale  Manufacturers		1652 Greenview Dr SW 	Rochester	MN	55902	(507) 281-2381	http://rochesterstemacademy.org
+Supreme Green Lawn Care	NOT IN SAMPLE	Gardeners			1939 210th St 	Manchester	IA	52057	(563) 608-6114	http://supremegreeninc.com
+Stevenson Supply Co Inc	NOT IN SAMPLE	Pumps	Pumps-Wholesale  Manufacturers		2686 Route 206 Mount Holly NJ 08060-6711 	Mount Holly	NJ	8060	(609) 267-1863	http://stevensonsupply.com
+Taco Express	NOT IN SAMPLE	Mexican Restaurants	Caterers	Restaurants	2001 Campbell Station Pkwy # A1 	Spring Hill	TN	37174	(615) 302-2888	http://tacoexpressgrill.com
+Chans Market Cafe	NOT IN SAMPLE	Coffee  Espresso Restaurants			1002 Highway 98 E 	Destin	FL	32541	(850) 654-1425	http://pelican-beach.com
+Tina Marie Photography	NOT IN SAMPLE	Photography Schools			41 Elm St 	Seymour	CT	6483	(203) 463-8233	http://tinamariephoto.com
+Transition Co	NOT IN SAMPLE	Sheds			1001 Industrial Ave 	Olathe	CO	81425	(970) 323-0425	http://weatherport.com
+QC Coffee and Pancake House (aka Koffee Break)	NOT IN SAMPLE	Restaurants	Coffee Shops		1831 3rd Ave 	Rock Island	IL	61201	(309) 788-9589	http://qccoffeeandpancakehouse.com
+Andora Systems	NOT IN SAMPLE	"Stereo, Audio  Video Equipment-Dealers"			430 Rutland Rd 	Brooklyn	NY	11203	(718) 560-3074	http://local.control4.com/andorasystemsllc2-11203/brooklyn-ny
+Frank Keith Bowers-Nationwide Insurance	NOT IN SAMPLE	Retirement Planning Services	Insurance		214 Collett St 	Morganton	NC	28655	(828) 437-3084	http://agency.nationwide.com/agent/frank-keith-bowers-320003523-32000352300000
+Tobosa Developmental Services	NOT IN SAMPLE	Developmentally Disabled  Special...			110 E Summit St 	Roswell	NM	88203	(575) 624-1025	http://trytobosa.org
+Tolt Yarn	NOT IN SAMPLE	Yarn	Arts  Crafts Supplies		4509 Tolt Ave 	Carnation	WA	98014	(425) 333-4066	http://toltyarnandwool.com
+Loon Saloon	NOT IN SAMPLE	Bars	Taverns	Restaurants	45135 County Highway D 	Cable	WI	54821	(715) 794-2265	http://www.loonsaloon.com
+Theatre In The Park	NOT IN SAMPLE	Movie Theaters	Theatres		15588 History Ln 	Petersburg	IL	62675	(217) 632-5440	http://theatreinthepark.net
+Alan's Security Automobile Radiator Repairs	NOT IN SAMPLE	Auto Repair  Service			214 S 1st St 	Elizabethport	NJ	7206	(908) 352-2291	http://cheapautopartsnj.com
+"Montaquila, Stephen M"	NOT IN SAMPLE	Optometrists	Physicians  Surgeons		222 Jefferson Blvd Ste 300 	Warwick	RI	2888	(401) 732-2350	http://westbayeye.com
+Alaskalink	NOT IN SAMPLE	Web Site Design  Services			12000 Wagner St 	Anchorage	AK	99516	(907) 345-5012	http://accupoint.com
+Analytical Biological Svc Inc	NOT IN SAMPLE	Testing Labs	Analytical Labs		701 Cornell Dr # 4 	Wilmington	DE	19801	(302) 654-4492	http://absbio.com
+10 Sports Bar  Grill	NOT IN SAMPLE	Bars	Taverns	Brew Pubs	4101 E 42nd St 	Odessa	TX	79762	(432) 367-1001	http://www.10sbag.com
+Vegas Media Group Inc	NOT IN SAMPLE	Television  Radio Stores			1771 E Flamingo Rd Ste 206A 	Las Vegas	NV	89119	(702) 734-0001	http://vegasmediagroup.com
+Laurie Eisenhardt	NOT IN SAMPLE	Graphic Designers	Commercial Artists		413 S Pleasant St 	Royal Oak	MI	48067	(248) 544-1006	http://laurieeisenhardt.com
+Linksters Taproom	NOT IN SAMPLE	Bars	Taverns	Bar  Grills	8764 S Tamiami Trl 	Sarasota	FL	34238	(941) 966-9141	http://thesarasotabars.com
+Public School 39	NOT IN SAMPLE	Public Schools	Preschools  Kindergarten		71 Sand Ln 	Staten Island	NY	10305	(718) 447-4543	http://schools.nyc.gov/schoolportals/31/r039/default.htm
+ALLMILMO US CORP	NOT IN SAMPLE	Kitchen & Bath Designers			66 Route 4 East	Paramus	NJ	7652	(917) 319-4321	http://www.allmilmous.com
+Petfolio Animal Photography	NOT IN SAMPLE	Portrait Photographers			5805 Winterthur Ln NW 	Atlanta	GA	30328	(404) 694-7317	http://petfolio.com
+Colorado Crushing	NOT IN SAMPLE	Sand  Gravel			5017 Graneros Rd 	Colorado City	CO	81019	(719) 676-3012	http://coloradocrushing.com
+D H R  Associates	NOT IN SAMPLE	Constables			46 2nd St 	Cambridge	MA	2141	(617) 868-6733	http://dhrassociates.com
+Selkirk Valley Chapter	NOT IN SAMPLE	Clubs			7488 Deep Creek Loop 	Bonners Ferry	ID	83805	(208) 267-2272	http://bchi.org
+Autobahn Collision	NOT IN SAMPLE	Automobile Body Repairing  Painting			20850 Coolidge Hwy 	Oak Park	MI	48237	(248) 586-9003	http://autobahncollisionshop.com
+Vermont Sun Fitness	NOT IN SAMPLE	Health Clubs			11 Main St 	Vergennes	VT	5491	(802) 877-2030	http://vermontsun.com
+"Ceaser, Martin A, MD"	NOT IN SAMPLE	"Physicians  Surgeons, Psychiatry"			3801 Connecticut Ave NW # 100B 	Washington	DC	20008	(202) 364-7071	http://qct-inc-usa.com
+Main Auto	NOT IN SAMPLE	Used Car Dealers			3957 S Main St 	Salt Lake City	UT	84107	(801) 647-4654	http://mainstmuffler.com
+Crepe Expectations	NOT IN SAMPLE	Restaurants	French Restaurants		9500 S Eastern Ave # 150 	Las Vegas	NV	89123	(702) 583-4939	http://www.crepeexpectations.com
+Dk Sales Inc	NOT IN SAMPLE	Cabinet Makers	Cabinets		2425 Lee Ave 	South El Monte	CA	91733	(626) 444-8287	http://dk-sales.com
+Chieftain Sand and Proppant	NOT IN SAMPLE	Sand  Gravel	General Contractors		1228 15th St # 3 	Denver	CO	80202	(303) 573-7750	http://chieftainsand.com
+Tobias Marman Construction	NOT IN SAMPLE	General Contractors			224 W Avenue C 	Bismarck	ND	58501	(701) 751-4330	http://tobiasmarmanconstruction.com
+M  M Janitorial Inc	NOT IN SAMPLE	"Floor Waxing, Polishing  Cleaning"			131 Mann St 	Bedford	PA	15522	(814) 623-1296	http://mmjanitorial.org
+Shorty's Bar	NOT IN SAMPLE	Bars	Taverns	Bar  Grills	507 Main St 	Platte	SD	57369	(605) 337-3192	http://shortysbar.com
+Sykes Industrial	NOT IN SAMPLE	Pumps	Pumps-Wholesale  Manufacturers		5905 Steeplechase Blvd Ste 200 	Cumming	GA	30040	(770) 887-1018	http://sykesindustrial.com
+Willy's Pizzeria	NOT IN SAMPLE	Seafood Restaurants	Pizza	Delicatessens	4545 S 6th St 	Klamath Falls	OR	97603	(541) 238-7022	http://www.willyspizzeria.com
+Center For Cosmetic Dentistry	NOT IN SAMPLE	Dentists			2440 M St NW Ste 205 	Washington	DC	20037	(202) 466-3333	http://smilesinternational.com
+Home Maintenance Services	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			1663 Wrightstown Rd 	Newtown	PA	18940	(215) 860-7490	http://rawestassociates.com
+La Catalana A Traditional Spanish Restaurant	NOT IN SAMPLE	Restaurants	Spanish Restaurants		3720 N 1st St 	San Jose	CA	95134	(408) 324-1321	http://www.lacatalanatapas.com
+Super King Buffet	NOT IN SAMPLE	Banquet Halls  Reception Facilities			4591 Hardy St 	Hattiesburg	MS	39402	(601) 268-0833	http://superkingbuffetms.com
+Galaxy Cannery Theatres	NOT IN SAMPLE	Restaurants	Movie Theaters		2121 E Craig Rd 	North Las Vegas	NV	89030	(702) 639-9779	http://galaxytheatres.com
+Life Line Labs Corp	NOT IN SAMPLE	Electronic Equipment  Supplies-Wholesale...			990 Industry Dr 	Tukwila	WA	98188	(206) 420-3187	http://celluon.com
+Sideshow	NOT IN SAMPLE	Tattoos	Body Piercing		6215 Fresh Pond Rd 	Middle Village	NY	11379	(718) 366-8702	http://trueblue.com
+Silk Road	NOT IN SAMPLE	Mediterranean Restaurants	Caterers		41 Mountain Blvd Ste B3 	Warren	NJ	7059	(908) 561-8288	http://www.silkroadrestaurant.org
+MWresume Writing	NOT IN SAMPLE	Resume Service			7 Landers Road 	Reading	MA	1867	(781) 244-9776	http://mwresumewriting.com
+White Photographic	NOT IN SAMPLE	Commercial Photographers			118 Summits Rdg 	Morgantown	WV	26508	(304) 319-0098	http://whitephotographic.net
+finessinclothes	NOT IN SAMPLE	Shopping Centers  Malls	Clothing Stores		9250 dean rd apt2013 	shreveport	LA	71118	(214) 924-2474	http://finesseclothing.webs.com
+L  C Builders	NOT IN SAMPLE	General Contractors			220 52nd St 	Brooklyn	NY	11220	(718) 567-2224	http://lcbuilders.ca
+Tankaway	NOT IN SAMPLE	Heating Contractors  Specialties			2 Shawsheen Rd 	Boston	MA	2128	(617) 981-7594	http://tankawayma.com/contact/
+Certa Learning Center	NOT IN SAMPLE	Tutoring	Educational Services		225 Hillside Ave Ste 1 	Williston Park	NY	11596	(516) 746-3134	http://certalearningcenter.com
+ProStone Solutions LLC	NOT IN SAMPLE	Kitchen & Bath Remodelers				Brooklyn	NY			http://ProStoneSolutions.com
+Sparky's Pizza	NOT IN SAMPLE	Restaurants	Pizza		7530 NE M L King Blvd 	Portland	OR	97211	(503) 285-5656	http://www.sparkyspizza.net
+Accord Engineering  Surveying	NOT IN SAMPLE	Land Surveyors	Professional Engineers		314 Main St Ste 23 	Great Barrington	MA	1230	(413) 528-8999	http://accord-engineering.com
+Kokomo's Surfside Grill	NOT IN SAMPLE	Restaurants	Bar  Grills		21071 Pacific Coast Hwy 	Huntington Beach	CA	92648	(714) 374-5600	http://parkbenchcafe.com
+My Auto Wrecking Auto Repr Sp	NOT IN SAMPLE	Truck Wrecking	Automobile Salvage		700 Alpha St 	Duarte	CA	91010	(626) 305-0059	http://myautowreckingca.com
+Koki's Teppanyaki Grille	NOT IN SAMPLE	Restaurants	Japanese Restaurants		1061 E Main St 	Tustin	CA	92780	(714) 505-6738	http://www.kokisgrille.com
+Roslyn Heights Funeral Home	NOT IN SAMPLE	Cremation Urns	Funeral Planning		75 Mineola Ave 	Roslyn Heights	NY	11577	(516) 621-4545	http://roslynheightsfh.com
+Melissa Stephens Photography	NOT IN SAMPLE	Portrait Photographers			305 Decatur Ct 	Shreveport	LA	71106	(318) 458-2203	http://melissastephensphotography.com
+My San Antonio Mobile Notary	NOT IN SAMPLE	Legal Document Assistance	Legal Forms		17460 IH 35 N Ste 430 PMB 421 	Schertz	TX	78154	(210) 343-5007	http://mysamobilenotary.com
+Petry Family Dentistry	NOT IN SAMPLE	Dentists	Dental Clinics		2900 Moss St # D 	Lafayette	LA	70501	(337) 233-5494	http://petryfamilydentistrylafayettela.com
+Pinnacle Development Group Llc	NOT IN SAMPLE	Kitchen & Bath Designers			1641 Egret Circle	Suffolk	VA		(757) 342-2288	http://www.pinnacledevelopmentgrp.com
+Lady Luck Casino	NOT IN SAMPLE	Bars	Taverns	Casinos	777 E 3rd St 	Caruthersville	MO	63830	(573) 333-6000	http://caruthersville.isleofcapricasinos.com
+Go Green Taxi	NOT IN SAMPLE	Taxis	Transportation Services		 	Arlington	TX	76011	(817) 412-9196	http://pedicabrides.com
+Vault 244	NOT IN SAMPLE	Bars	Cocktail Lounges	Night Clubs	244 1st Ave W 	Albany	OR	97321	(541) 791-9511	http://www.vault244.com
+Paul Stockman Custom Cabinets	NOT IN SAMPLE	Cabinet Makers			111 Landwehr Hills Rd 	Jefferson City	MO	65101	(573) 635-6787	http://stockmanstoneworks.com
+Chris Evert Charities	NOT IN SAMPLE	Charities	Fund Raising Service		7200 W Camino Real 	Boca Raton	FL	33433	(561) 394-2400	http://chrisevert.org
+Sturdy Built	NOT IN SAMPLE	Boat Trailers			6511 E State Road 64 	Bradenton	FL	34208	(941) 747-4983	http://sturdybuiltonline.com
+Post Independent	NOT IN SAMPLE	Publishers	Publishers-Periodical		2014 Grand Ave 	Glenwood Springs	CO	81601	(970) 945-9937	http://postindependent.com
+Smithsonian National Air  #38	NOT IN SAMPLE	Museums	Gift Shops		600 Independence Ave SW 	Washington	DC	20560	(202) 633-2214	http://airandspace.si.edu
+Get Away Cafe	NOT IN SAMPLE	Restaurants	Cafeterias		3615 Canyon Crest Dr Ste B 	Riverside	CA	92507	(951) 786-3606	http://www.getawaycafeucr.com
+Eli's Place	NOT IN SAMPLE	Take Out Restaurants	Restaurants		267 Merrimack St 	Lawrence	MA	1843	(978) 687-7986	http://www.elisplace.net
+"TWIN-CO, INC."	NOT IN SAMPLE	Storm Windows  Doors	Deck Builders		1352 Dadrian Professional Park 	Godfrey	IL	62035	(618) 466-8946	http://twin-co.com
+Tick Tock Shoppe	NOT IN SAMPLE	Clocks			8283 Oak Wood Dr 	King George	VA	22485	(540) 775-7027	http://stanpalen.com
+Custom Cabinets By Don	NOT IN SAMPLE	Cabinet Makers			10400 SE Mather Rd 	Clackamas	OR	97015	(503) 657-4157	http://ccbyd.com
+Pack Rat Shipping	NOT IN SAMPLE	Fax Service	Shipping Services		MAGAZINE St 	New Orleans	LA	70127	(504) 899-5415	http://packratshipping.com
+Bistro Rialto	NOT IN SAMPLE	Italian Restaurants	Pizza	Caterers	716 Main St 	Alamosa	CO	81101	(719) 589-3039	http://www.bistrorialto.com
+Louisiana Tumble N Cheer Academy	NOT IN SAMPLE	Cheerleading	Gymnastics Instruction		530 J F Smith Ave 	Slidell	LA	70460	(985) 646-0904	http://ltcatigers.com
+Two Rivers Coffee	NOT IN SAMPLE	Coffee  Espresso Restaurants			101 Kentile Rd 	South Plainfield	NJ	7080	(908) 205-0276	http://brooklynbeans.com
+"Kenney, Sara"	NOT IN SAMPLE	"Physicians  Surgeons, Psychiatry"			211 4th St NE Ste 4 	Devils Lake	ND	58301	(701) 662-8255	http://bloomingprairiecenter.com
+B  B Automotive LLC	NOT IN SAMPLE	Auto Repair  Service			8531 Bash St 	Indianapolis	IN	46250	(317) 796-7857	http://b-and-b-automotive.com
+Polonia Restaurant	NOT IN SAMPLE	Take Out Restaurants	Coffee Shops		750 S US Highway 17 92 	Longwood	FL	32750	(407) 331-1933	http://www.polonia-restaurant.com
+Night Watchman	NOT IN SAMPLE	Glass Doors			30551 Edison Dr 	Roseville	MI	48066	(586) 498-9514	http://nightwatchman.net
+The Cheddar Box Cafe	NOT IN SAMPLE	Restaurants	Cafeterias		12121 Shelbyville Rd Ste 103 	Louisville	KY	40243	(502) 245-2622	http://www.cheddarboxcafe.com
+The Computer Guy-Rutlandvt	NOT IN SAMPLE	Web Site Design  Services			25 Temple St 	Rutland	VT	5701	(802) 775-9967	http://thecomputerguyvt.com
+A Plus Auto Center	NOT IN SAMPLE	Auto Repair  Service	Gas Stations		799 S Euclid Ave 	San Diego	CA	92114	(619) 266-1986	http://apluscollisionrepair.com
+Closets For Life Inc	NOT IN SAMPLE	Cabinet Makers	Home Design  Planning		13680 Harwell Path 	Saint Paul	MN	55124	(952) 484-0416	http://www.closetsforlife.com
+Customer Furniture  Cabinets Inc	NOT IN SAMPLE	Cabinet Makers			415 E Alondra Blvd 	Gardena	CA	90248	(310) 527-2310	http://customfurniturela.com
+eplusmweb.com	NOT IN SAMPLE	Web Site Design  Services			16888 Nisqualli Rd. Suite 400 	Victorville	CA	92395	(760) 560-3971	http://www.eplusmweb.com
+Continuity Graphic Assoc Inc	NOT IN SAMPLE	Graphic Designers			4710 W Magnolia Blvd 	Burbank	CA	91505	(818) 980-8861	http://nealadams.com
+Murphy's Glass Block And Handyman Service	NOT IN SAMPLE	Glass-Block			4 Bagley St 	Fallston	MD	21047	(443) 904-0188	http://murphysglassblock.com
+Sublet Contractors Inc	NOT IN SAMPLE	Welders	Machinery-Rebuild  Repair		1220 Clermont Dr 	Bardstown	KY	40004	(502) 348-5799	http://selectiveinsurance.com
+Ces  Judy's Catering	NOT IN SAMPLE	Caterers	Wedding Planning  Consultants		10405 Clayton Rd 	Saint Louis	MO	63131	(314) 991-6700	http://cesandjudys.com
+Monopoly Movers Inc	NOT IN SAMPLE	Moving Boxes			11031 Wye St 	San Antonio	TX	78217	(210) 590-6683	http://texasdiscountmovers.com
+Wine In The Woods	NOT IN SAMPLE	Wine	Liquor Stores		216 Cahill Cross Rd 	West Milford	NJ	7480	(973) 728-5500	http://wineinthewoods.com
+Denver Colorado Bail Bonds	NOT IN SAMPLE	Bail Bonds			 	Denver	CO	80204	(303) 702-0071	http://denvercoloradobailbonds.com
+Ramen Master	NOT IN SAMPLE	Japanese Restaurants	Asian Restaurants		144 N Mason St Unit 8 	Fort Collins	CO	80524	(970) 294-2237	http://www.ramenmaster.com
+Ristretto Roasters	NOT IN SAMPLE	Restaurants	Coffee Shops		3808 N Williams Ave Ste 125 	Portland	OR	97227	(503) 288-8667	http://ristrettoroasters.com
+Aqua Life	NOT IN SAMPLE	Aquaculture			5360 N Mesa St 	El Paso	TX	79912	(915) 845-3474	http://aqualife-ep.com
+Trinity Services Inc	NOT IN SAMPLE	Pasta			30545 S Walsh Rd 	Manhattan	IL	60442	(815) 478-5331	http://trinity-services.com
+Systems Solutions	NOT IN SAMPLE	Cd-Rom			1037 37th St 	Sacramento	CA	95816	(916) 923-4816	http://systemssolutions.com
+Hong Kong Buffet	NOT IN SAMPLE	Restaurants	Chinese Restaurants		341 Boniface Pkwy 	Anchorage	AK	99504	(907) 333-3744	http://www.hongkongbuffetanchorage.com
+Founders Choice Cabinetry	NOT IN SAMPLE	Cabinet Makers			1517 S Tacoma Way 	Tacoma	WA	98409	(253) 476-4308	http://founderschoice.com
+Boulder Pointe Golf Club	NOT IN SAMPLE	Golf Courses	Private Golf Courses		9575 Glenborough Dr 	Elko New Market	MN	55020	(952) 461-4900	http://boulderpointe.net
+The Depot	NOT IN SAMPLE	Restaurants	Taverns	Bars	2001 K St 	Sacramento	CA	95811	(916) 441-6823	http://www.thedepot.net
+Machismo Burrito Bar	NOT IN SAMPLE	Mexican Restaurants			8500 Henry Ave Ste U 	Philadelphia	PA	19128	(267) 385-6602	http://lennox.com
+CHUN LEE CHINESE RESTAURA	NOT IN SAMPLE	Restaurants	Chinese Restaurants		1100 Elmwood Park Blvd 	New Orleans	LA	70123	(504) 733-8562	http://chunleerestaurant.com
+Cardinal Lane Book Fairs	NOT IN SAMPLE	Book Stores			327 W Tremont Ave Ste B 	Charlotte	NC	28203	(704) 358-4554	
+Giraffe Web Design	NOT IN SAMPLE	Web Site Design  Services			917 Chickasaw Rd 	Oxford	MS	38655	(662) 236-4054	http://giraffewebdesign.com
+State Line Supply Inc	NOT IN SAMPLE	Heating Equipment  Systems-Wholesale			115 Lafayette Rd 	Seabrook	NH	3874	(603) 474-3421	http://statelinesupply.com
+Hugo's Seafood  Steakhouse	NOT IN SAMPLE	Seafood Restaurants	Barbecue Restaurants		841 William Hilton Pkwy Ste L 	Hilton Head Island	SC	29928	(843) 785-4846	http://www.hugoshiltonhead.com
+Stickeen Wilderness Adventures	NOT IN SAMPLE	Boat Tours	Boat Rental  Charter		103 Front St 	Wrangell	AK	99929	(907) 874-2085	http://alaskavistas.com
+Tristate Moving  Storage	NOT IN SAMPLE	Movers	Moving-Self Service		1700 14th St NW 	Washington	DC	20009	(202) 518-6683	http://tristatemovingandstorage.com
+Mountain View Golf Course	NOT IN SAMPLE	Golf Courses			27195 SE Kelso Rd 	Boring	OR	97009	(503) 663-4869	http://mtviewgolfclub.com/?skiptest
+Brandshake Creative	NOT IN SAMPLE	Web Site Design  Services			1145 Zonolite Rd NE 	Atlanta	GA	30306	(678) 705-5331	http://brandshakecreative.com
+The Body Works Studio	NOT IN SAMPLE	Health Clubs			3326 York Rd 	Furlong	PA	18925	(215) 794-0372	http://thebodyworksstudio.com
+Marriage Counseling Ctr	NOT IN SAMPLE	Mental Health Services			219 W Grove St 	Clarks Summit	PA	18411	(570) 586-6020	http://mccnepa.com
+Bowery Coffee	NOT IN SAMPLE	Coffee  Espresso Restaurants			89 E Houston St 	New York	NY	10012	(212) 966-5162	http://facebook.com/BoweryCoffeeNYC
+Shadybrook Golf Club	NOT IN SAMPLE	Golf Courses	Golf Practice Ranges		444 Hutchison Rd 	Paris	KY	40361	(859) 987-1544	http://shadybrookgolf.com
+Piedmont Soccer Alliance	NOT IN SAMPLE	Soccer Clubs	Sporting Goods		110 Scott Ave 	High Point	NC	27262	(336) 883-4362	http://piedmonttriadfc.org
+A Plus Entertainment	NOT IN SAMPLE	Party Supply Rental			11702 S State Highway 36 	Gatesville	TX	76528	(254) 487-2731	http://aplusentertainment.net
+Industrial Metal Solutions	NOT IN SAMPLE	Piping Contractors			372 State Route 34 	Waverly	NY	14892	(888) 936-6382	http://imsfab.com
+Reedurban Nurseries	NOT IN SAMPLE	Nurseries-Plants  Trees	Garden Centers		2540 Genoa Ave SW 	Massillon	OH	44646	(330) 477-6900	http://reedurbannursery.com
+Birds Nest BBQ	NOT IN SAMPLE	Barbecue Restaurants	Restaurants		303 N Main St 	Bel Air	MD	21014	(410) 838-8087	http://birdsnestbbq.com
+Taste Of India	NOT IN SAMPLE	Caterers	Indian Restaurants		316 E 4th St 	Bloomington	IN	47408	(812) 333-1399	http://tasteofindiabtown.com
+Gilligan's Seafood	NOT IN SAMPLE	American Restaurants			530 Harbor Blvd 	Destin	FL	32541	(850) 650-4400	http://www.gilligansseafoodrestaurant.com
+Old Style Hot Tamales	NOT IN SAMPLE	Restaurants	Take Out Restaurants		2004 1/2 Claire Ave 	Gretna	LA	70053	(504) 368-0071	http://www.oldstylehottamales.net
+Alco Plastics Inc	NOT IN SAMPLE	Plastics  Plastic Products			35 Ward Rd 	Lancaster	NY	14086	(716) 683-3020	http://alcobags.com
+Window Elegance	NOT IN SAMPLE	"Draperies, Curtains  Window Treatments"			2306 La Mirada Dr 	Vista	CA	92081	(760) 727-1127	http://windowelegance.blogspot.com
+bulthaup Denver	NOT IN SAMPLE	Kitchen & Bath Designers			1038 Bannock Street	Denver	CO	80204	(303) 777-5409	http://www.denver.bulthaup.com/
+Asian Garden	NOT IN SAMPLE	Restaurants	Asian Restaurants		2222 SE 27th Ave 	Amarillo	TX	79103	(806) 342-3322	http://www.asiangarden.us
+Watson Recycling	NOT IN SAMPLE	Scrap Metals	Recycling Centers		1961 81st St NE 1961 Broadway NW N 	Rochester	MN	55906	(507) 282-3961	http://watsonrecycling.com
+Stonewood Cabinetry	NOT IN SAMPLE	Cabinet Makers	Home Improvements	Cabinets	18118 Chesterfield Airport Rd Ste O 	Chesterfield	MO	63005	(636) 778-1415	http://www.stonewoodcabinetrystl.com
+Fire On The Mountain	NOT IN SAMPLE	Family Style Restaurants	Bars		3801 W 32nd Ave 	Denver	CO	80211	(303) 480-9464	http://www.fotmdenver.com
+Maola Milk  Ice Cream	NOT IN SAMPLE	Restaurants	Dairy Products		1535 E Club Blvd 	Durham	NC	27704	(919) 220-8909	http://maolamilk.com
+Grill Sunset	NOT IN SAMPLE	Restaurants	Bar  Grills	Bars	2112 Fairfax Ave 	Nashville	TN	37212	(615) 750-2917	http://sunsetgrill.com
+Breckenridge Mountain Lodge	NOT IN SAMPLE	Motels	Hotels	Resorts	535 S Park Ave 	Breckenridge	CO	80424	(970) 453-2000	http://breckenridgesports.com
+Thorobred Investigations	NOT IN SAMPLE	Skip Tracing	Missing Persons Bureaus		150 E. Laurel Ave. # 1413 	Foley	AL	36536	(251) 525-5571	http://thorobredinvestigations.weebly.com
+Ez Top Kitchens  Bath Company	NOT IN SAMPLE	Counter Tops			65 Industrial Way 	Wilmington	MA	1887	(978) 988-9088	http://www.eztopsupply.com
+New World Recycling	NOT IN SAMPLE	Aluminum	Automobile Salvage	Bronze	1079 E 5th Ave 	Columbus	OH	43201	(614) 754-8508	http://www.1newworldrecycling.com
+Bavarian House Restaurant	NOT IN SAMPLE	Restaurants	German Restaurants		7115 Gulf Blvd 	St Pete Beach	FL	33706	(727) 363-4414	http://www.sandras-german-restaurant.com
+Binchi Construction Corp.	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			2762 W 15th St 	Brooklyn	NY	11224	(718) 266-1582	http://www.binchiconstruction.com/
+Renwood Cabinets Inc	NOT IN SAMPLE	Woodworking	Furniture Stores		2501 W Graff Dr 	Payson	AZ	85541	(928) 468-1498	http://renwoodcabinets.com
+Meese Orbitron Dunne	NOT IN SAMPLE	Plastics  Plastic Products			16404 Knott Ave 	La Mirada	CA	90638	(714) 739-4005	http://modroto.com
+Arctic Blends Corporation	NOT IN SAMPLE	Coffee Shops			2133 West Concord Circle 	Broken Arrow	OK	74011	(918) 455-2079	http://arcticblends.com
+Roger Jones  Associates Inc	NOT IN SAMPLE	Grease Traps			117 Greentree Dr 	Newnan	GA	30265	(770) 254-9995	http://rogerjones.com
+Favorites At Woodbridge	NOT IN SAMPLE	Seafood Restaurants	Bar  Grills		3 Lafayette Rd 	Fords	NJ	8863	(732) 512-5025	http://www.mclooneswoodbridgegrille.com
+Adaman Water District	NOT IN SAMPLE	Water Supply Systems			16251 W Glendale Ave 	Litchfield Park	AZ	85340	(623) 935-2837	http://adamanwater.com
+Stallion Chicag	NOT IN SAMPLE	Night Clubs			16700 Halsted St 	Harvey	IL	60426	(708) 339-1787	http://www.stallionchicago.com
+Community Solutions Inc	NOT IN SAMPLE	Mental Health Services			21 Cliff St 	Waterbury	CT	6710	(203) 596-0783	http://csi-online.org
+Martino's Italian Beef	NOT IN SAMPLE	Restaurants	Italian Restaurants		1215 W Layton Ave 	Milwaukee	WI	53221	(414) 281-5580	http://www.martinoshotdogs.com
+Eats  Sweets	NOT IN SAMPLE	Take Out Restaurants			401 S Public Rd Ste 1 	Lafayette	CO	80026	(303) 665-3287	http://www.eatsandsweets.biz
+Polo Club Stable	NOT IN SAMPLE	Stables			13500 W Highway 290 	Austin	TX	78737	(512) 699-6718	http://waterloodressage.net
+Diesel Pizza And Pub	NOT IN SAMPLE	Family Style Restaurants	Pizza	Bars	994 Alpharetta St 	Roswell	GA	30075	(770) 641-1080	http://www.diesel-pizza.com
+Golden Wok	NOT IN SAMPLE	Seafood Restaurants	Chinese Restaurants		332 W College Ave 	State College	PA	16801	(814) 234-1102	http://goldenwok.com
+Summer Rain Sprinkler	NOT IN SAMPLE	Gardeners	Sprinklers-Garden  Lawn		1 Horton Ave 	Port Chester	NY	10573	(914) 305-2076	http://summerrainsprinklers.com
+Imperial Palace Of Rockford Inc	NOT IN SAMPLE	Asian Restaurants	Chinese Restaurants		3415 E State St 	Rockford	IL	61108	(815) 227-1442	http://www.imperialpalacerockford.com
+Paramounte Engineering	NOT IN SAMPLE	Land Surveyors	Civil Engineers		5911 Oleander Dr 	Wilmington	NC	28403	(910) 791-6707	http://paramounte-eng.com
+Bin 5	NOT IN SAMPLE	Restaurants	Italian Restaurants		1233 Bay St 	Staten Island	NY	10305	(718) 448-7275	http://bin5nyc.com
+Olivers Restaurant	NOT IN SAMPLE	Bars	Family Style Restaurants	Night Clubs	5405 Jean Rd 	Lake Oswego	OR	97035	(503) 697-1054	http://oliverslakeoswego.net
+Avellinos Pizza	NOT IN SAMPLE	Restaurants	Pizza		1328 Windsor Pkwy NE 	Atlanta	GA	30319	(404) 500-3841	http://www.avellinospizzeria.com
+Wichita Falls Teachers Federal Credit Union	NOT IN SAMPLE	Banks	Credit Unions	Financing Services	4301 Barnett Rd 	Wichita Falls	TX	76310	(940) 692-7096	http://wftfcu.com/
+Cookies New Leaf	NOT IN SAMPLE	Restaurants			485 Dewey Ave 	Eureka	MT	59917	(406) 297-5323	http://newleaf.com
+The Lock Dok	NOT IN SAMPLE	Keys	Locks  Locksmiths		302 Yarnell Rd 	Clinton	TN	37716	(865) 463-8423	http://lockdoxtn.com
+Chevy Metal	NOT IN SAMPLE	Truck Accessories			11812 NE Highway 99 	Vancouver	WA	98686	(360) 694-7295	http://chevymetalparts.com
+Riverhouse Restaurant	NOT IN SAMPLE	Night Clubs	Family Style Restaurants		4818 Salina St 	Pulaski	NY	13142	(315) 509-4281	http://riverhouserestaurant.net
+Cactus Cafe	NOT IN SAMPLE	Restaurants	Coffee Shops		4 W Fenwick Blvd 	Selbyville	DE	19975	(302) 436-4492	http://cactuscafedelaware.com
+Cafe Saint-Amand	NOT IN SAMPLE	Restaurants	Cafeterias		48 Baltimore St 	Gettysburg	PA	17325	(717) 334-2700	http://www.cafesaintamand.com
+Sipala Spars  Rigging	NOT IN SAMPLE	Crane Service			6274 Rock Hall Rd 	Rock Hall	MD	21661	(410) 708-0370	http://sipalaspars.com
+Arcuri Stables Inc	NOT IN SAMPLE	Horse Boarding	Horse Rentals		37691 Upper Camp Creek Rd 	Springfield	OR	97478	(541) 746-0143	http://arcuristables.com
+Hoelscher's Meats	NOT IN SAMPLE	Restaurants	Meat Markets	Butchering	3067 Delaware Ave 	Buffalo	NY	14217	(716) 874-3620	http://www.bubblesqsauce.com
+E Wing House	NOT IN SAMPLE	Restaurants	Barbecue Restaurants	Caterers	1956 S University Blvd # H 	Mobile	AL	36609	(251) 662-1829	http://e-winghousemobile.com
+Trillium Solid Surfaces	NOT IN SAMPLE	Counter Tops			4618 Tompkins Dr 	Madison	WI	53716	(608) 222-2886	http://www.trilliumsolidsurface.com
+Lesser Scott B Custom Carpentry	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			232 Wrights Rd 	Newtown	PA	18940	(215) 968-6386	http://www.lessercarpentry.com
+Katie Hixon Interiors	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			5061 Morse Rd 	Columbus	OH	43230	(614) 855-3800	http://www.katiehixoninteriors.net
+Monte Vista Animal Clinic	NOT IN SAMPLE	Veterinarians			1851 US Highway 160 W 	Monte Vista	CO	81144	(719) 852-5504	http://montevistavet.com
+Westerner Club	NOT IN SAMPLE	Restaurants	Night Clubs	Bar  Grills	3360 S Redwood Rd 	West Valley City	UT	84119	(801) 972-5447	http://www.westernerslc.com
+Bartanen's Auto Body	NOT IN SAMPLE	Used Car Dealers			1495 US Highway 41 W 	Ishpeming	MI	49849	(906) 486-8314	http://locations.autovalue.com/MI/ISHPEMING/08132-05
+Jones Funeral Home	NOT IN SAMPLE	Cemeteries	Funeral Directors	Crematories	1222 13th Ave 	Altoona	PA	16601	(814) 942-2661	http://jonesfh.org
+Apex Self Storage	NOT IN SAMPLE	Self Storage			2346 Market St 	Wheeling	WV	26003	(304) 233-2747	http://apexselfstorage.net
+Safeservices	NOT IN SAMPLE	Safes  Vaults			2028 Gentry St 	Clearwater	FL	33765	(727) 462-0238	http://safeservices.com
+Santa Fe Airport Grill	NOT IN SAMPLE	Mexican Restaurants	American Restaurants		121 Aviation Dr # 6 	Santa Fe	NM	87507	(505) 471-5227	http://www.santafenm.gov/index.aspx?nid=171
+Victor's Radiator Warehouse	NOT IN SAMPLE	Auto Repair  Service			451 W Holt Ave 	Pomona	CA	91768	(909) 865-5588	http://victorsradiator.com
+Wilson Nurseries Inc	NOT IN SAMPLE	Garden Centers			7773 Cropper Rd 	Pleasureville	KY	40057	(502) 461-7984	http://wilsonnurseries.com
+Firehouse BBQ and Blues	NOT IN SAMPLE	Barbecue Restaurants			400 N 8th St 	Richmond	IN	47374	(765) 488-0312	http://www.firehousebbqandblues.com
+Gidel  Kocal Construction Co Inc	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			574 Division St 	Campbell	CA	95008	(408) 370-0280	http://www.gidelkocal.com
+Ogle County Hospice Assn	NOT IN SAMPLE	Hospices			1658 S Il Route 2 	Oregon	IL	61061	(815) 732-2499	http://serenityhospiceandhome.org
+Jay_Dee	NOT IN SAMPLE	Web Site Design  Services			2059 Camden Ave 	San Jose	CA	95124	(408) 625-7188	http://www.andolasoft.com
+American Railing Design	NOT IN SAMPLE	"Rails, Railings  Accessories Stairway"			2 Amboy Ave # 3 	Woodbridge	NJ	7095	(732) 287-1147	http://americanrailingdesign.com
+Decker  Sons	NOT IN SAMPLE	"Concrete Breaking, Cutting  Sawing"			130 Seth Ave 	Tupelo	MS	38804	(662) 231-9723	http://deckerandsons.net
+Barnes Greenhouses Inc	NOT IN SAMPLE	Greenhouses	Garden Centers	Florists	3225 Pleasant Pl 	Trenton	MO	64683	(660) 359-2600	http://barnesgreenhouses.com
+Palmetto Mortuary Transport	NOT IN SAMPLE	Embalmers	Funeral Supplies  Services		4959 Platt Springs Rd 	West Columbia	SC	29170	(803) 359-1545	http://knightsystemsinc.com
+OXC Design + Strategy	NOT IN SAMPLE	Web Site Design  Services			525 Vine Street #843 	Cincinnati	OH	45201	(513) 201-7141	http://theoxc.com
+Chatham Wine  Liquor	NOT IN SAMPLE	Wine	Liquor Stores		53 Main St 	Chatham	NY	12037	(518) 392-0364	http://chathamwineandliquor.com
+Sounds Great	NOT IN SAMPLE	"Stereo, Audio  Video Equipment-Dealers"			1335 E Republic Rd Ste D 	Springfield	MO	65804	(417) 883-4543	http://soundsgreat.com
+Thomas Hale Hamilton Library	NOT IN SAMPLE	Libraries			2550 McCarthy Mall 	Honolulu	HI	96822	(808) 956-7203	http://library.manoa.hawaii.edu
+Music For People	NOT IN SAMPLE	Music Sheet			275 Bunker Hill Rd 	Watertown	CT	6795	(860) 491-3763	http://returntochild.com
+Investment Management Systems Inc	NOT IN SAMPLE	Financial Planners			1255 Lake Plaza Dr Ste 270 	Colorado Springs	CO	80906	(719) 540-9990	http://thecompletesolution.com
+Performance Outdoors Inc	NOT IN SAMPLE	Guide Service	Fishing Charters  Parties		215 Broadway St 	Eagle	CO	81631	(970) 328-7014	http://performanceoutdoors.com
+Pleasant Hill Pool Hall	NOT IN SAMPLE	Bars	Pool Halls		119 S 1st St 	Pleasant Hill	MO	64080	(816) 540-2004	http://pleasanthillrec.com
+Hubcaps	NOT IN SAMPLE	Family Style Restaurants			1548 Bonanza St 	Walnut Creek	CA	94596	(925) 945-6960	http://hubcapsdiner.com
+Rock On Co	NOT IN SAMPLE	Tarps	Hydraulic Equipment Repair		3100 7th St S Ste B 	Waite Park	MN	56387	(320) 230-2998	http://rockontrucks.com
+Box Lunch Co	NOT IN SAMPLE	Caterers	Restaurants		360 Shaw Rd 	South San Francisco	CA	94080	(650) 589-1886	http://boxlunch.net
+Avalon Studios	NOT IN SAMPLE	Portrait Photographers			12484 County Road 118 	Merrifield	MN	56465	(218) 765-3382	http://avalon-studios.com
+China Palace	NOT IN SAMPLE	Chinese Restaurants	Asian Restaurants		459 Broad St 	Sumter	SC	29150	(803) 775-5941	http://chinapalace.chinesemenu.com
+Arvin A. Brown Public Library	NOT IN SAMPLE	Libraries			88 Main St 	Richford	VT	5476	(802) 848-3313	http://aabrown.org
+Soccer Zone	NOT IN SAMPLE	Soccer Clubs	Sporting Goods		7240 W Lake Mead Blvd Ste 4 	Las Vegas	NV	89128	(702) 456-4625	http://soccerzonevegas.com
+Classic Remodeling and Construction	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			797 N Washington Blvd 	Ogden	UT	84404	(385) 626-0700	http://www.utahclassicremodeling.com
+EL SARAPE Mexican Restaurant	NOT IN SAMPLE	Mexican Restaurants	Restaurants		423 E Court Ave 	Pixley	CA	93256	(559) 757-3456	http://www.elsarape88.com
+Beach City Smoothies	NOT IN SAMPLE	Restaurants	Juices		594 Carlsbad Village Dr 	Carlsbad	CA	92008	(760) 729-0011	http://www.beachcitysmoothies.com
+Magtek	NOT IN SAMPLE	Music Stores	Video Rental  Sales		8307 Melrose Dr 	Overland Park	KS	66214	(913) 451-1151	http://magtek.com
+Scooternerds.com	NOT IN SAMPLE	Mopeds	Motorcycle Dealers		430 N Eugene St 	Greensboro	NC	27401	(336) 271-4774	http://scooternerds.com
+El Patron Mexican Grill and Bar	NOT IN SAMPLE	Family Style Restaurants	Bar  Grills		100 East College Ave. 	Appleton	WI	54911	(920) 996-0122	
+Lantrip Services	NOT IN SAMPLE	Tree Service	Lawn Maintenance		804 S Green St 	Brownsburg	IN	46112	(317) 858-8475	http://lantripservices.com
+Stone Top Granite  Tile	NOT IN SAMPLE	Counter Tops			2208 Associate Dr 	Raleigh	NC	27603	(919) 661-9116	http://www.stonetopcompany.com
+Maya's Burritos	NOT IN SAMPLE	Mexican Restaurants	Take Out Restaurants		500 Broadway 	Chelsea	MA	2150	(617) 466-2623	http://mayasburritosboston.com
+Ameri Lubes	NOT IN SAMPLE	Auto Repair  Service	Auto Oil  Lube		3611 Mt Holly Hntrsvl Rd 	Charlotte	NC	28216	(704) 532-9366	http://amerilubes.com
+Hole In The Hill Bar and Grill	NOT IN SAMPLE	Restaurants	Bar  Grills	Bars	30 Main St 	Springfield	VT	5156	(802) 885-4240	http://www.facebook.com/theholeinthehill
+Learning Center	NOT IN SAMPLE	Tutoring	Special Education	Child Care	191 Franklin 	Pinedale	WY	82941	(307) 367-6306	http://childrenlearn.org
+Metro Signs	NOT IN SAMPLE	Graphic Designers	Signs		2327 Southwest Dr 	Los Angeles	CA	90043	(323) 752-0222	http://metrosigncompany.com
+Brooke County Review	NOT IN SAMPLE	Newspapers			67 Town Sq 	Wellsburg	WV	26070	(304) 737-0946	http://brookecountyreview.com
+Magnolia Pancake Haus	NOT IN SAMPLE	Restaurants			10333 Huebner Rd 	San Antonio	TX	78240	(210) 496-0828	http://www.magnoliapancake.com
+remodeling n more	NOT IN SAMPLE	Kitchen & Bath Remodelers			119 washington st	no. easton	MA	20356	(508) 254-6100	http://www.remodelingnmore.com
+Carpool-Vanpool Service	NOT IN SAMPLE	Auto Repair  Service	Gas Stations		318 E 37th St 	Garden City	ID	83714	(208) 345-7665	http://commuteride.com
+Twenty Four Hour Tan	NOT IN SAMPLE	Tanning Salons			745 Chastain Rd #1100 	Kennesaw	GA	30144	(678) 909-6583	http://www.24hr-tan.com
+Visionz Party Bus	NOT IN SAMPLE	Night Clubs	Party  Event Planners		Po Box 328 	Atlanta	GA	30309	(678) 542-6251	http://www.visionzpartybus.com
+Mexpro International Inc.	NOT IN SAMPLE	Typewriters			2828 Faber St 	Union City	CA	94587	(510) 489-6800	http://blossom-disposables.com
+"Pulido, Carlos A, MD"	NOT IN SAMPLE	"Physicians  Surgeons, Anesthesiology"			3870 Medical Park Dr 	Austell	GA	30106	(770) 948-6824	http://atlantapainmanagementcenters.com
+James William Ritter Architect	NOT IN SAMPLE	Architects			814 King St 	Alexandria	VA	22314	(703) 548-4405	http://ritterarchitects.com
+Ozark Pattern Concrete	NOT IN SAMPLE	Concrete Contractors	Concrete Products		 				(479) 756-2319	http://ozarkpatternconcrete.com
+Dalton's Memorial Engraving	NOT IN SAMPLE	Engraving			PO Box 594 	American Fork	UT	84003	(801) 921-5456	http://daltonsmemorial.com
+Zaffiro's	NOT IN SAMPLE	Restaurants			5200 S Moorland Rd 	New Berlin	WI	53151	(262) 797-8759	http://zaffirospizzabar.com/ridge_location.php
+Tile Artworks	NOT IN SAMPLE	Tile-Contractors  Dealers			 	Scottsdale	AZ	85258	(480) 745-5333	http://tileartworks.com
+Woodworking Unlimited	NOT IN SAMPLE	Kitchen Cabinets  Equipment-Household			18 Commercial Waye 	Hanson	MA	2341	(781) 447-2682	http://www.woodworkingunlimited.com
+Book Ends-Library Bookstore	NOT IN SAMPLE	Book Stores			1515 Young St 	Dallas	TX	75201	(214) 670-1727	http://dallaslibrary2.org
+St Augustine Kitchen and Bath	NOT IN SAMPLE	Kitchen & Bath Remodelers				St Augustine	FL	32084	(904) 342-2296	http://www.staugustinekitchenandbath.com
+Goleta Animal Shelter	NOT IN SAMPLE	"City, Village  Township Government"			5473 Overpass Rd 	Santa Barbara	CA	93111	(805) 681-5285	http://bunssb.org
+AU 79 Tea Express	NOT IN SAMPLE	Restaurants	Coffee  Tea		1671 E Colorado Blvd 	Pasadena	CA	91106	(626) 683-0588	http://www.au79teahouse.com
+Marble City Grill	NOT IN SAMPLE	Bar  Grills	Restaurants		112 N Broadway Ave 	Sylacauga	AL	35150	(256) 245-8108	http://www.marblecitygrill.com
+Heathworks	NOT IN SAMPLE	Cabinet Makers	General Contractors		1545 S Acoma St 	Denver	CO	80223	(303) 733-0270	http://heathworksllc.com
+450 North Brewing Co	NOT IN SAMPLE	Beverages	Beer  Ale	Restaurants	8111 E 450 N 	Columbus	IN	47203	(812) 546-0091	http://450northbrewing.com
+Ivory Owl	NOT IN SAMPLE	Novelties	Gift Shops		301 Ramsey St 	Batesville	AR	72501	(870) 793-7939	http://ivoryowl.com
+Rogue	NOT IN SAMPLE	Restaurants	Cocktail Lounges	Brew Pubs	423 N Scottsdale Rd 	Scottsdale	AZ	85257	(480) 947-3580	http://rogue.com
+Lawrence's Meats Deli  BBQ	NOT IN SAMPLE	Barbecue Restaurants	Restaurants		225 Alamo Plz 	Alamo	CA	94507	(925) 838-0505	http://lawrencesmeats.com
+Sandy Park Community Center	NOT IN SAMPLE	"Halls, Auditoriums  Ballrooms"			6301 W 11th Pl 	Tulsa	OK	74127	(918) 245-4144	http://tulsahousing.org
+Asador	NOT IN SAMPLE	Restaurants	Mexican Restaurants		2222 N Stemmons Fwy 	Dallas	TX	75207	(214) 267-4815	http://www.asadorrestaurant.com
+Pacific Estate Sales	NOT IN SAMPLE	Liquidators	Estate Appraisal  Sales		771 El Medio Ave 	Pacific Palisades	CA	90272	(310) 454-4910	http://pacificestatesales.com
+FedEx Office Print  Ship Center	NOT IN SAMPLE	Packaging Materials			201 Waterfront St 	Oxon Hill	MD	20745	(301) 567-0457	http://local.fedex.com/md/oxon-hill/office-5629/?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFXOPRSC
+Davan Espresso	NOT IN SAMPLE	Coffee  Espresso Restaurants			706 Challenger Way 	Forked River	NJ	8731	(609) 693-8822	http://davancoffee.com
+BOSS-Works	NOT IN SAMPLE	Resume Service			 	Ogden	UT	84404	(844) 267-7967	http://boss-works.com
+Laser Reprographics	NOT IN SAMPLE	Blueprinting			1491 2nd St 	Sarasota	FL	34236	(941) 362-7883	http://1laserreprographics.com
+Acrelink	NOT IN SAMPLE	Economic Development...			2009 4th St SW 	Mason City	IA	50401	(641) 424-3705	http://acrelink.com
+New Haven	NOT IN SAMPLE	"Marriage, Family, Child ..."			2172 E 7200 S 	Spanish Fork	UT	84660	(801) 794-1218	http://newhavenrtc.com
+Advanced Auctions	NOT IN SAMPLE	Auctioneers			6875 N Eggert Rd 	Rock City	IL	61070	(815) 218-0705	http://advancedauction.com
+Wowiwe Instruction Co	NOT IN SAMPLE	Cd-Rom			1044 12th St N 	Fargo	ND	58102	(701) 271-8875	http://wowiwe.net
+Restaurant Pomme	NOT IN SAMPLE	French Restaurants			115 S Main St 	Gordonsville	VA	22942	(540) 832-0130	http://www.restaurant-pomme.com
+D & D Contractors Corp	NOT IN SAMPLE	Kitchen & Bath Designers			"655 Park Ave ,Suite 3"	Freehold	NJ		(732) 414-2413	http://danddcontractorscorp.com
+Roanoke Granite Tops	NOT IN SAMPLE	Kitchen Cabinets  Equipment-Household			752 Orange Ave NE 	Roanoke	VA	24016	(540) 344-6444	http://www.roanokegranitetops.com
+Townsend Marketing	NOT IN SAMPLE	"Banners, Flags  Pennants"	Business Cards		8315 E 111th St S 	Bixby	OK	74008	(918) 496-9222	http://townsendmarketing.com
+Concrete Curb Crafters	NOT IN SAMPLE	Concrete Contractors			25 Mallane Ln # 1 	Naugatuck	CT	6770	(203) 723-0134	http://concretecurbcrafters.com
+Pizzano's Pizza	NOT IN SAMPLE	Restaurants	Pizza		3665 S 16th Ave 	Tucson	AZ	85713	(520) 327-6561	http://vantagebowling.com
+Cary Schwarz Custom Saddles	NOT IN SAMPLE	Sporting Goods			10 Summer Creek Dr 	Salmon	ID	83467	(208) 756-8383	http://caryschwarz.com
+Wine Shoe	NOT IN SAMPLE	Wine	Liquor Stores	Wine Brokers	339 Nelson St SW 	Atlanta	GA	30313	(404) 577-2000	http://wineshoeatlanta.com
+Schiano's Pizza	NOT IN SAMPLE	Restaurants	Pizza	Take Out Restaurants	4011 E Renner Rd 	Richardson	TX	75082	(972) 808-9400	http://www.schianostx.com
+Red Door Flea Market	NOT IN SAMPLE	Flea Markets			525 6th St 	Pawnee	OK	74058	(918) 762-3444	http://reddoorfleamarket.com
+Pace  Associates Inc.	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			PO Box 5159 	Reno	NV	89513	(775) 964-8330	http://renotahoesparksconstruction.com
+Hinesville Glass  Mirror	NOT IN SAMPLE	"Glass-Auto, Plate, Window, Etc"			1156 W Oglethorpe Hwy 	Hinesville	GA	31313	(912) 876-6069	http://autoglassinhinesville.com
+Professional Quality Cases	NOT IN SAMPLE	Photographic Equipment  Supplies			67 34th St Unit 5 	Brooklyn	NY	11232	(718) 840-2750	http://pqcltd.com
+Kitchen Expo Inc	NOT IN SAMPLE	Cabinet Makers	Granite		8191 Ocean Gtwy 	Easton	MD	21601	(410) 820-0246	http://kitchenexpomd.com
+Parker County Cabinets	NOT IN SAMPLE	Cabinet Makers	Cabinets		311 Adell Rd 	Weatherford	TX	76088	(817) 594-2154	http://parkercountycabinets.com
+Titan Construction Enterprises Inc	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			15525 Weber Rd 	Romeoville	IL	60446	(815) 838-6775	http://www.mytitanconstruction.com
+Trump National Golf Course	NOT IN SAMPLE	Private Clubs	Golf Practice Ranges		120 Trump Sq 	Mooresville	NC	28117	(704) 799-7300	http://trumpnationalcharlotte.com
+Mower Care	NOT IN SAMPLE	Lawn Mowers	Gasoline Engines		 	Noblesville	IN	46060	(317) 566-8545	http://mowercareindy.com
+Dalc Gear  Bearing Supply Corporation	NOT IN SAMPLE	Bearings	Wholesale Bearings		3881 Danbury Rd 	Brewster	NY	10509	(845) 278-7300	http://dalc.net
+Tombstone Epitaph	NOT IN SAMPLE	Publishers	Publishing Consultants		11 S 5th St 	Tombstone	AZ	85638	(520) 457-2211	http://tombstoneepitaph.com
+Blue Agave Club	NOT IN SAMPLE	Restaurants	Mexican Restaurants		625 Main St 	Pleasanton	CA	94566	(925) 417-1224	http://www.blueagaveclub.com
+Bishops BBQ Grill	NOT IN SAMPLE	Family Style Restaurants			2546 Highway 145 	Saltillo	MS	38866	(662) 869-8351	http://www.bishopsbbqgrill.com
+B.B. Trophy and Awards	NOT IN SAMPLE	Awards			40360 Hayes Rd 	Clinton Township	MI	48038	(586) 263-5300	http://bbtrophy.com/contact-us/
+Morton L Silverman MD	NOT IN SAMPLE	"Physicians  Surgeons, Urology"			1606 Walnut St 	Philadelphia	PA	19103	(215) 545-5630	http://mrcponline.com
+Azul Mexican Grill	NOT IN SAMPLE	Bar  Grills	Mexican Restaurants	Caterers	1306 N Demaree St Ste A 	Visalia	CA	93291	(559) 733-2985	
+Moye Bail Bond	NOT IN SAMPLE	Bail Bonds	Insurance		307 Main St 	Augusta	AR	72006	(870) 347-1455	http://mbbconline.com
+Wolfe-O'Neill Funeral Home	NOT IN SAMPLE	Crematories	Funeral Directors		106 S Cherry St 	Kalkaska	MI	49646	(231) 258-5121	http://wolfeoneill.com
+Designor Inc	NOT IN SAMPLE	Novelties	Gift Shops		51 Haddonfield Rd Ste 320 	Cherry Hill	NJ	8002	(856) 910-1873	http://iittala.com
+Top Dog Carpet Cleaning	NOT IN SAMPLE	Carpet  Rug Cleaners			2 Capitol Circle 	Rochester	NH	3867	(603) 923-5609	http://topdogcarpetcleaning.com
+Best Buy	NOT IN SAMPLE	Computer Printers  Supplies			11450 Pines Blvd 	Pembroke Pines	FL	33026	(954) 441-6135	http://stores.bestbuy.com/559
+Braintree Brewhouse	NOT IN SAMPLE	Restaurants	Brew Pubs	Bars	703 Granite St 	Braintree	MA	2184	(781) 356-4500	http://www.braintreebrewhouse.com
+Barcello's Auto Body	NOT IN SAMPLE	Automobile Body Repairing  Painting			914 E Main St 	Stamford	CT	6902	(203) 327-5047	http://barcellosautobody.com
+Bio Data Medical Lab	NOT IN SAMPLE	Pathology Labs	Medical Labs		18092 Wika Rd Ste 130 	Apple Valley	CA	92307	(760) 983-2674	http://biodatalab.com
+Awash Restaurant	NOT IN SAMPLE	Family Style Restaurants			2218 18th St NW 	Washington	DC	20009	(202) 588-8181	http://www.leesfamousrecipe.com
+The Ivory Room	NOT IN SAMPLE	Bars			116 W Mifflin St 	Madison	WI	53703	(608) 467-2404	http://www.ivoryroompianobar.com
+Plummer's Waste Group	NOT IN SAMPLE	Grease Traps			4750 Clyde Park Ave SW 	Wyoming	MI	49509	(616) 259-6468	http://plummerswastegroup.com
+Montana's Rib  Chop House	NOT IN SAMPLE	Barbecue Restaurants	Steak Houses		3176 E State St 	Hermitage	PA	16148	(724) 308-6220	http://www.hermitageribandchophouse.com
+Precision Global	NOT IN SAMPLE	Valves	Valves-Wholesale  Manufacturers		800 Westchester Ave Ste C700 	Rye Brook	NY	10573	(914) 969-6500	http://precisionglobal.com
+Brandon Town Office	NOT IN SAMPLE	"City, Village  Township Government"			49 Center St 	Brandon	VT	5733	(802) 247-0226	http://townofbrandon.com
+Viola's Tavern  Gaming	NOT IN SAMPLE	Bars	Taverns	American Restaurants	4061 N Rancho Dr 	Las Vegas	NV	89130	(702) 675-7375	http://www.violastavern.com
+Jackson Stamps	NOT IN SAMPLE	Stamp Dealers			426 Kanuga Rd 	Hendersonville	NC	28739	(828) 595-2214	http://jacksonstamps.com
+Wulbern-Koval Company Inc	NOT IN SAMPLE	Typewriters	Office Furniture  Equipment		1111 Morrison Dr 	Charleston	SC	29403	(843) 577-7666	http://wulbern-koval.com
+Olde Forge Ironworks	NOT IN SAMPLE	"Rails, Railings  Accessories Stairway"			3760 Harton Rd 	Virginia Beach	VA	23452	(757) 340-5102	http://oldeforge-ironworks.com
+Festival Tacos	NOT IN SAMPLE	Mexican Restaurants			1285 Entrance Rd 	Leesville	LA	71446	(337) 537-8109	http://www.festivaltacos.com
+Tyler Enterprises Inc	NOT IN SAMPLE	Fertilizers			4673 Weitz Rd 	Morris	IL	60450	(815) 423-5551	http://masterblend.com
+Shangri La Ranch Horse Rentals	NOT IN SAMPLE	Horse Training	Horse Boarding		 	Santa Margarita	CA	93453	(805) 438-3895	http://www.8054383895.com
+FedEx Office Print  Ship Center	NOT IN SAMPLE	Fax Service			505 N Michigan Ave 	Chicago	IL	60611	(312) 595-0768	http://local.fedex.com/il/chicago/office-5589/?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-YEXTLISTFXOPRSC
+Marinero Taxi	NOT IN SAMPLE	Shopping Centers  Malls	Hotels		23 York Terrace 	Sicklerville	NJ	8081	(856) 879-4109	http://www.marinerotaxi.webs.com
+Allen-Bailey Tag  Label	NOT IN SAMPLE	Tags			12448 S Moody Ave 	Palos Heights	IL	60463	(708) 293-0816	http://abtl.com
+Dupont Tire and Auto	NOT IN SAMPLE	Tire Dealers	Auto Repair  Service		330 Wade Hampton Blvd 	Greenville	SC	29609	(864) 509-1400	http://5hhfr.com
+Chateau Nonchalant Vinevard	NOT IN SAMPLE	Wine	Wineries		1329 Larson Rd 	Roseburg	OR	97471	(541) 679-2391	http://chateaunonchalantvineyards.com
+ABC Rug Carpet  Upholstery Cleaning	NOT IN SAMPLE	Steam Cleaning	Carpet  Rug Cleaners		 	New York	NY	10036	(877) 337-8692	http://abcrug.net
+Falls Millwork	NOT IN SAMPLE	Cabinet Makers	Woodworking	Cabinets	913 Giddings St 	Kelley	IA	50134	(515) 769-2212	http://fallsmillworkelley.com
+Starbelly	NOT IN SAMPLE	Restaurants	American Restaurants	Pizza	3583 16th St 	San Francisco	CA	94114	(415) 252-7500	http://www.starbellysf.com
+Southern Cabinets	NOT IN SAMPLE	Carpenters	Cabinet Makers		778 Kines Rd 	Piedmont	AL	36272	(256) 447-9111	http://southerncabinets.net
+Uncle Andy's Pizza	NOT IN SAMPLE	Restaurants	Pizza	Take Out Restaurants	28957 Woodward Ave 	Berkley	MI	48072	(248) 545-6111	http://www.uncleandyspizza.com
+Fireside Martini and Wine Bar	NOT IN SAMPLE	Bars	Wine Bars		416 W Bakerview Rd 	Bellingham	WA	98226	(360) 738-1000	http://www.firesidemartini.com
+Mirror Tech Mfg Co Inc	NOT IN SAMPLE	Mirrors			286 Nepperhan Ave 	Yonkers	NY	10701	(914) 423-1600	http://mirror-tech.com
+Brighton Publishing	NOT IN SAMPLE	Publishers	Publishers Representatives		501 W Ray Rd 	Chandler	AZ	85225	(480) 821-7722	http://brightonpublishing.com
+Wyoming Village Shopping Center	NOT IN SAMPLE	Shopping Centers  Malls			700 Mall Dr Ste A 	Portage	MI	49024	(269) 323-2441	http://www.kalamazoocity.org
+Kaanapali Taxi Maui	NOT IN SAMPLE	Taxis			222 Papalaua St Ste 203 	Lahaina	HI	96761	(808) 661-4455	http://kaanapalitaximaui.com
+The Fixit Team	NOT IN SAMPLE	Kitchen Planning  Remodeling Service			1015 Union Hill Rd 	Alpharetta	GA	30004	(678) 368-1000	http://atlantaglassblock.com
+Best Buy	NOT IN SAMPLE	Home Theater Systems	Major Appliances		1 Garden State Plz 	Paramus	NJ	7652	(201) 556-1321	http://stores.bestbuy.com/887
+American Hoist	NOT IN SAMPLE	Millwrights	Riggers		15811 Annico Dr Ste 5 	Homer Glen	IL	60491	(708) 301-6510	http://americanbeltmanlift.com
+Laser Specialists	NOT IN SAMPLE	Steel Mills	Steel Fabricators		17921 Malyn Blvd 	Fraser	MI	48026	(586) 294-8830	http://laserspecialists.com
+Sqlstream Inc	NOT IN SAMPLE	Cd-Rom			1540 Market St # 400 	San Francisco	CA	94102	(415) 824-0454	http://sqlstream.com
+Western States Packaging	NOT IN SAMPLE	Specialty Bags			13276 Paxton St 	Pacoima	CA	91331	(818) 686-6045	http://wspusa.com
+Cattaraugus County Fairgrounds	NOT IN SAMPLE	Fairgrounds			501 Erie St 	Little Valley	NY	14755	(716) 938-6529	http://cattarauguscofair.com
+Prairie Lane Elementary School	NOT IN SAMPLE	Public Schools	Elementary Schools		11444 Hascall St 	Omaha	NE	68144	(402) 390-6470	http://prairielane.westside66.org
+Complete Auto	NOT IN SAMPLE	Automobile Body Repairing  Painting			1 Allenstown Rd Ste 1 	Allenstown	NH	3275	(603) 485-1101	http://locations.autovalue.com/NH/ALLENSTOWN/67007-07
+Just Frame It Inc	NOT IN SAMPLE	Picture Frames			2509 Encounter Ct 	Virginia Beach	VA	23453	(757) 689-8754	http://justframeit.com
+Rodeo  Juliet Leather	NOT IN SAMPLE	Leather			7115 W Farm Road 94 	Springfield	MO	65803	(417) 234-1477	http://rodeoandjulietleather.com
+America Auto Sales	NOT IN SAMPLE	Used Car Dealers	New Car Dealers		1614 E Irving Blvd 	Irving	TX	75060	(972) 721-1331	http://paramountautocenter.com
+Site Specialties Inc	NOT IN SAMPLE	Playgrounds	Recreation Centers		1141 Park St 	Loganville	GA	30052	(770) 784-0080	http://sitespecialtiesinc.com
+Old Campbell County Historical Society Inc	NOT IN SAMPLE	Museums	Cultural Centers		45 NE Broad St 	Fairburn	GA	30213	(770) 969-5618	http://museumsusa.org
+Apex Car Service	NOT IN SAMPLE	Taxis	Transportation Providers		365 Choate Rd 	Canaan	NH	3741	(603) 252-8295	http://apexcarservice.com
+Normandin Woodworks	NOT IN SAMPLE	Cabinet Makers	Carpenters	Woodworking	9440 Wheatlands Ct 	Santee	CA	92071	(619) 596-2813	http://normandinwoodworks.com
