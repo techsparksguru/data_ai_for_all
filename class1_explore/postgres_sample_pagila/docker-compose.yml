@@ -1,0 +1,18 @@
+# Use postgres/example user/password credentials
+# https://github.com/devrimgunduz/pagila
+version: '3.1'
+
+services:
+
+  db:
+    build:
+        context: .
+    restart: always
+    ports:
+        - 5432:5432
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
