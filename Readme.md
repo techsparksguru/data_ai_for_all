@@ -1,7 +1,8 @@
 ![TechSparks](Techsparks-TS-cloud-logo-new.png)
 # TOPIC
-- Introduction to Data Analysis with Pandas
+- Introduction to Data Analysis with Pandas, Spark & Koalas
 - This is basic level tutorial, with visualization included
+- Real time projects demonstrate the value of the libraries
 
 # WHAT TO GET
 - Your machine/laptop/desktop/tablet/phablet/notebook that can connect to internet and an html compatible browser 
