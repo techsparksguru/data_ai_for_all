@@ -3,9 +3,12 @@ The recommended RAM size for pandas is generally 5 to 10 times the size of the d
 However , since Pandas gets someone quickly started with analyzing data, without the overhead of setting up a server, following all bells and whistles and cuts straight to the need, it is still preferred by many especially because developers have access to higher horse power machines on the client side
 
 # Pandas vs. Spark vs. Koalas
-Pandas is great for data analysis, quick and no hassle to get started
-Apache Spark is the defacto (along with hadoop) for big data processing
-Koalas helps write Pandas aligned code, but runs on Apache Spark server (trying to get the best of both worlds, though still in early stages)
+- Pandas is great for data analysis, quick and no hassle to get started.
+- Apache Spark is the defacto (along with hadoop) for big data processing
+- Koalas helps write Pandas aligned code, but runs on Apache Spark server (trying to get the best of both worlds, though still in early stages)
+
+### DataFrame
+- The DataFrame concept is not unique to Spark. R and Python both have similar concepts. However, Python/R DataFrames (with some exceptions) exist on one machine rather than multiple machines. This limits what you can do with a given DataFrame to the resources that exist on that specific machine. However, because Spark has language interfaces for both Python and R, it’s quite easy to convert Pandas (Python) DataFrames to Spark DataFrames, and R DataFrames to Spark DataFrames.
 
 # Various links
 
