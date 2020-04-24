@@ -33,3 +33,15 @@ When you start Spark in this interactive mode, you implicitly create a SparkSess
 
 # Spark UI
 - Generally available on port 4040 of driver node
+
+# DataFrames vs. SQL
+- You can express your business logic in SQL or DataFrames (either in R, Python, Scala, or Java) and Spark will compile that logic down to an underlying plan (that you can see in the explain plan) before actually executing your code. 
+- With Spark SQL, you can register any DataFrame as a table or view (a temporary table) and query it using pure SQL. 
+- There is no performance difference between writing SQL queries or writing DataFrame code, they both “compile” to the same underlying plan that we specify in DataFrame code
+
+# SparkSession vs. SparkContext
+- You can have one and only one SparkContext on a single JVM, but the number of SparkSessions is pretty much unbounded.
+- You can have as many SparkSessions as needed
+- SparkSession is a mere wrapper around SparkContext to offer Spark SQL's structured/SQL features on top of Spark Core's RDDs
+- You can only have one SparkContext at one time. Although you can start and stop it on demand as many times you want, but I remember an issue about it that said you should not close SparkContext unless you're done with Spark. In other words, have a single SparkContext for the entire lifetime of your Spark application. This is evident when you see Spark UI and start multiple sessions, yet there is only driver
+- Many applications built on Spark (e.g. incorta visual tool) are extremely careful to manage the lifecyle of SparkContext object, and mention in their documentation that the application/system owns managing the lifecycle of SparkContext and not available to user
