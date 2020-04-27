@@ -37,5 +37,10 @@ For matplotlib to display plots properly in jupyterlab, install [jupyter-matplot
 # PRESENTATION DECK
 [Minimal Deck](https://slides.com/machzqcq/deck-2)
 
+# TOOLS
+- Dbeaver for database modeling and viewing schema
+- VS Code (very rarely) - for modifying docker-compose manifest
+- Excel for real time project 
+
 # TRIVIA
 How did I make the animated gif ? [here](https://gist.github.com/paulirish/b6cf161009af0708315c)
