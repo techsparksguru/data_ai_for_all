@@ -1,0 +1,6 @@
+ClientID|SendID|SubscriberKey|EmailAddress|SubscriberID|ListID|EventDate|EventType|SendURLID|URLID|URL|Alias|BatchID|TriggeredSendExternalKey|Browser|EmailClient|OperatingSystem|Device
+12345|98765|blah@blah.com ()|blah@blah.com|372058613|371051|5/14/2020 6:42:32 AM|Click|54793413|4578751|http://www.techsparks.guru|Save $0.25|1||Unspecified|Unspecified|Windows|PC
+12345|98765|blah@blah.com ()|blah@blah.com|372058613|371051|5/14/2020 6:42:43 AM|Click|54793413|4578751|http://www.techsparks.guru|Save $0.25|1||Chrome|Unspecified|Windows 7|PC
+12345|98765|blah@blah.com ()|blah@blah.com|372058613|371051|5/14/2020 6:43:12 AM|Click|54793414|4578751|http://www.techsparks.guru|Save $0.25|1||Unspecified|Unspecified|Windows|PC
+12345|98765|blah@blah.com ()|blah@blah.com|372058613|371051|5/14/2020 6:43:29 AM|Click|54793414|4578751|http://www.techsparks.guru|Save $0.25|1||Unspecified|Unspecified|Windows|PC
+12345|98765|blah@blah.com ()|blah@blah.com|372058613|371051|5/14/2020 6:45:10 AM|Click|54793414|4578751|http://www.techsparks.guru|Save $0.25|1||Unspecified|Unspecified|Windows|PC
