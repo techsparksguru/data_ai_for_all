@@ -10,10 +10,14 @@
 - Enthusiasm and willingness to jump in 
 
 # STUDENT LAB
-![Labs](techsparks_jupyterhub.gif)  
-If you plan to use jupyterlab (the future of jupyter), then follow instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). If you installed jupyter on mac using homebrew, even though your jupyter version is > 5.3 (`jupyter notebook --version`), you might have to `jupyter serverextension enable --py jupyterlab --sys-prefix`  
-
-For matplotlib to display plots properly in jupyterlab, install [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) and in the notebook use `%matplotlib widget` - This is specifically when you want to create grid of multiple plots and draw many at once (using matplotlib object oriented api) and control their size and drawing area
+![Labs](techsparks_jupyterhub.gif) 
+- If you run locally, use virtualenv/docker/pyenv etc. Helps to not corrupt your system python
+- If you plan to use jupyterlab (the future of jupyter), then follow instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). 
+- If you installed jupyter on mac using homebrew, even though your jupyter version is > 5.3 (`jupyter notebook --version`), you might have to `jupyter serverextension enable --py jupyterlab --sys-prefix`  
+- For matplotlib to display plots properly in jupyterlab, install [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) and in the notebook use `%matplotlib widget` - This is specifically when you want to create grid of multiple plots and draw many at once (using matplotlib object oriented api) and control their size and drawing area  
+- jupyter-matplotlib is now [ipympl](https://github.com/matplotlib/ipympl)
+- You might also need to install `jupyter-lab build` for newer versions
+- `jupyter labextension install @jupyter-widgets/jupyterlab-manager && jupyter lab build`
 
 # COURSE INDEX
 - Background, history of Pandas and relationship with ecosystem
@@ -38,6 +42,7 @@ For matplotlib to display plots properly in jupyterlab, install [jupyter-matplot
 [Minimal Deck](https://slides.com/machzqcq/deck-2)
 
 # TOOLS
+- All python pip libraries used in various notebooks are collected in requirements.txt
 - Dbeaver for database modeling and viewing schema
 - VS Code (very rarely) - for modifying docker-compose manifest
 - Excel for real time project 
