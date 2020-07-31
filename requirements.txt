@@ -1,3 +1,4 @@
+# Use virtualenv/pipenv/pyenv - Avoid modifying system python
 matplotlib==3.3.0
 ipympl==0.5.7
 pandas==1.1.0
@@ -5,3 +6,14 @@ seaborn==0.10.1
 beautifulsoup4==4.9.1
 lxml==4.5.2
 mpld3==0.5.1
+wordcloud==1.7.0
+wikipedia==1.4.0
+wordcloud==1.7.0
+numpy==1.19.1
+nbconvert==5.6.1
+pandoc==1.0.2
+openpyxl==3.0.4
+xlrd==1.2.0
+pyarrow==1.0.0
+fastparquet==0.4.1
+jupyter-contrib-nbextensions==0.5.1
