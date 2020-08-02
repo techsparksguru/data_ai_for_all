@@ -14295,7 +14295,7 @@ COPY inventory (inventory_id, film_id, store_id, last_update) FROM stdin;
 --
 
 COPY staff (staff_id, first_name, last_name, address_id, email, store_id, active, username, password, last_update, picture) FROM stdin;
-1	Mike	Hillyer	3	Mike.Hillyer@sakilastaff.com	1	t	Mike	8cb2237d0679ca88db6464eac60da96345513964	2017-05-16 16:13:11.79328	\\x89504e470d0a5a0a
+1	Mike	Hillyer	3	Mike.Hillyer@sakilastaff.com	1	t	Mike	8cb2237d0679ca88db6464eac60da96345513964	2017-05-16 16:13:11.79328	\N
 2	Jon	Stephens	4	Jon.Stephens@sakilastaff.com	2	t	Jon	8cb2237d0679ca88db6464eac60da96345513964	2017-05-16 16:13:11.79328	\N
 \.
 
