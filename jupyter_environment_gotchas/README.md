@@ -31,6 +31,34 @@ I tend to use most of the below
 
 # Magic Functions
 
+## Execute different languages
+
+`%%HTML` - to execute html code
+`%%ruby` - to execute ruby code (Of course assuming that you have launched the notebook in ruby kernel)
+
+## Variables betweeen notebooks
+
+``` notebook1.ipynb
+my_data = "This is my data"
+%store data
+```  
+
+```notebook2.ipynb
+%store -r my_data
+print(my_data)
+```  
+
+## Timing
+
+%%time will give you information about a single run of the code in your cell  
+
+%%timeit uses the Python timeit module which runs a statement 100,000 times (by default) and then provides the mean of the fastest three times.
+
+## Suppress output
+Sometimes you want to suppress output e.g. pip install -r   
+
+`%%capture capt` at the top of the cell will capture stdout, stderr into a tupe capt. Subsequently you can capt.show() to see output
+
 
     
 
