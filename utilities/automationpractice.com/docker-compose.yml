@@ -1,0 +1,22 @@
+# Use root/example as user/password credentials
+# backup contains .sql, .sql.gz
+version: '3.1'
+
+services:
+
+  db:
+    image: mariadb:10.2.32
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: automa37_pr595
+    volumes:
+      - ./backup:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
