@@ -9,7 +9,7 @@ mpld3==0.5.1
 wordcloud==1.7.0
 wikipedia==1.4.0
 wordcloud==1.7.0
-numpy==1.19.1
+numpy==1.21.1
 nbconvert==5.6.1
 pandoc==1.0.2
 openpyxl==3.0.4
