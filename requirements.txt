@@ -17,7 +17,7 @@ xlrd==1.2.0
 pyarrow==1.0.0
 fastparquet==0.4.1
 jupyter-contrib-nbextensions==0.5.1
-pyspark==3.0.0
+pyspark==3.3.0
 pandas-profiling==2.8.0
 findspark==1.4.2
 koalas==1.1.0
