@@ -45,6 +45,10 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
+### POC with notebook
+
+Open the [notebook](./POC.ipynb)
+
 #### Run The App
 
 ```
