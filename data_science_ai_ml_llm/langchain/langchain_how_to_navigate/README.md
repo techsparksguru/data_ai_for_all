@@ -5,7 +5,7 @@
 
 
 LangChain is the forerunner in establishing a framework for developing LLMs and Chat applications (as of July 2023). That is why you see many prominent AI gurus have partnered with langchain and new courses are being taught (e.g. deeplearning.ai and databricks - really see their marketing courses and how much of the content is langchain vs. not).  
-It is difficult to navigate this whole LLM space after chatGPT made the LLM capabilities viral. If you are someone who is developing / going to develop in this space, you will bound to encounter the below at the top of the chain  
+It can be difficult to navigate this whole LLM space after chatGPT made the LLM capabilities viral. If you are someone who is developing / going to develop in this space, you are bound to encounter the below at the top of the chain  
 - Langchain (overall abstraction framework for executing the idea in LLM space)
 - HuggingFace (hub that hosts all models, data and also a hosting provider. In short I can think of it as a cloud provider when you need to develop anything in the AI/ML space including LLM models)
 - Micro app frameworks like streamlit/gradio which can help an LLM developer spin up an application and demo/showcase without having to step into great details of Software Engineering space
@@ -38,7 +38,7 @@ Here are the PDFs and images
 ### Integration Groups
 
 - [langchain_integrations_group_sunburst.pdf](https://static.symmetrics.fyi/blog/langchain/langchain_integrations_group_sunburst.pdf)
-- [langchain_integrations_group_treemap.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_integrations_group_sunburst.jpg)
+- [langchain_integrations_group_treemap.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_integrations_group_treemap.jpg)
 
 
 # Interactive graphs
