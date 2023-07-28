@@ -30,15 +30,15 @@ Here are the PDFs and images
 
 ### Use Cases
 - [langchain_usecases_sunburst.pdf](https://static.symmetrics.fyi/blog/langchain/langchain_usecases_sunburst.pdf)
-- [langchain_usecases_sunburst.pdf](https://static.symmetrics.fyi/blog/langchain/langchain_usecases_treemap.pdf)
+- [langchain_usecases_treemap.pdf](https://static.symmetrics.fyi/blog/langchain/langchain_usecases_treemap.pdf)
 
 - [langchain_usecases_sunburst.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_usecases_sunburst.jpg)
-- [langchain_usecases_sunburst.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_usecases_treemap.jpg)
+- [langchain_usecases_treemap.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_usecases_treemap.jpg)
 
 ### Integration Groups
 
 - [langchain_integrations_group_sunburst.pdf](https://static.symmetrics.fyi/blog/langchain/langchain_integrations_group_sunburst.pdf)
-- [langchain_integrations_group_sunburst.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_integrations_group_sunburst.jpg)
+- [langchain_integrations_group_treemap.jpg](https://static.symmetrics.fyi/blog/langchain/langchain_integrations_group_sunburst.jpg)
 
 
 # Interactive graphs
