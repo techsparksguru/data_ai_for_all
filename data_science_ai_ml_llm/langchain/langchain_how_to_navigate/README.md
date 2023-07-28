@@ -1,4 +1,9 @@
 # How to Navigate
+
+![Use Cases](./langchain_usecases_sunburst.jpg)
+![Integrations](./langchain_integrations_group_sunburst.jpg)   
+
+
 LangChain is the forerunner in establishing a framework for developing LLMs and Chat applications (as of July 2023). That is why you see many prominent AI gurus have partnered with langchain and new courses are being taught (e.g. deeplearning.ai and databricks - really see their marketing courses and how much of the content is langchain vs. not).  
 It is difficult to navigate this whole LLM space after chatGPT made the LLM capabilities viral. If you are someone who is developing / going to develop in this space, you will bound to encounter the below at the top of the chain  
 - Langchain (overall abstraction framework for executing the idea in LLM space)
