@@ -1,0 +1,5 @@
+holidays==0.24
+prophet==1.1.4
+transformers==4.31.0
+gradio==3.38.0
+plotly==5.15.0
