@@ -1,0 +1,10 @@
+## Follow any OS dependencies to be installed for e.g. https://scrubadub.readthedocs.io/en/stable/addresses.html
+
+scrubadub==2.0.1
+scrubadub_spacy==2.0.0
+pypdf==3.17.0
+scrubadub_stanford==2.1.3
+scrubadub-address==2.0.1
+pypostal==1.1
+flair==0.13.1
+transformers==4.36.2
