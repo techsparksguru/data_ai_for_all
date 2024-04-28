@@ -14,7 +14,7 @@ nbconvert==6.5.1
 pandoc==1.0.2
 openpyxl==3.0.4
 xlrd==1.2.0
-pyarrow==1.0.0
+pyarrow==14.0.1
 fastparquet==0.4.1
 jupyter-contrib-nbextensions==0.5.1
 pyspark==3.3.0
