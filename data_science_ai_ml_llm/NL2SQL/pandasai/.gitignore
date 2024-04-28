@@ -1,0 +1,7 @@
+**/*.csv
+**/*.db
+**/*.wal
+**/*.log
+**/*.png
+**/*.env
+**/*.parquet

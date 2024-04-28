@@ -1,0 +1,4 @@
+pandasai==2.0.36
+streamlit==1.24.1
+langchain-anthropic=0.1.11
+python-dotenv==1.0.0
