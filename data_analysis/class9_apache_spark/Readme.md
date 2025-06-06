@@ -64,7 +64,9 @@ When you start Spark in this interactive mode, you implicitly create a SparkSess
 You can customize the master with these parameters:
 - bin\spark-class org.apache.spark.deploy.master.Master --host localhost --port 7077 --webui-port 8080
 #### Common options:
+```
 --host or -h: Hostname to bind to (default: localhost)
 --port or -p: Port to bind to (default: 7077)
 --webui-port: Web UI port (default: 8080)
 --properties-file: Path to properties file
+```
