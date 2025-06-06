@@ -48,3 +48,23 @@ When you start Spark in this interactive mode, you implicitly create a SparkSess
 
 # Gotchas
 - If you don't find your spark application displaying in webUI (:8080), check that you started sparkSesssion in cluster mode i.e. set `spark://192.168.0.4:7077` on sparksession and not `local`
+
+# Various ways to start spark master
+- Navigate to your Spark installation directory:
+### Start the master:
+- bin\spark-class org.apache.spark.deploy.master.Master
+- Or use the batch file/shell if available:
+- sbin\start-master.cmd
+
+### Method 2: Using spark-submit
+- bin\spark-submit --class org.apache.spark.deploy.master.Master --master local[*]
+### Method 3: Direct Java command
+- java -cp "jars\*" org.apache.spark.deploy.master.Master
+#### Configuration Options
+You can customize the master with these parameters:
+- bin\spark-class org.apache.spark.deploy.master.Master --host localhost --port 7077 --webui-port 8080
+#### Common options:
+--host or -h: Hostname to bind to (default: localhost)
+--port or -p: Port to bind to (default: 7077)
+--webui-port: Web UI port (default: 8080)
+--properties-file: Path to properties file
